@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v2.0 20040830//EN" "http://dtd.nlm.nih.gov/publishing/2.0/journalpublishing.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article" dtd-version="2.0" xml:lang="EN">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">PLoS ONE</journal-id>
+<journal-id journal-id-type="publisher-id">plos</journal-id>
+<journal-id journal-id-type="pmc">plosone</journal-id>
+<journal-title>PLoS ONE</journal-title>
+<issn pub-type="epub">1932-6203</issn>
+<publisher>
+<publisher-name>Public Library of Science</publisher-name>
+<publisher-loc>San Francisco, USA</publisher-loc></publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">08-PONE-RA-05682R2</article-id>
+<article-id pub-id-type="doi">10.1371/journal.pone.0003826</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Biophysics</subject><subject>Biotechnology</subject><subject>Chemical Biology</subject><subject>Developmental Biology</subject><subject>Ecology</subject><subject>Evolutionary Biology</subject><subject>Physics</subject><subject>Biochemistry/Chemical Biology of the Cell</subject><subject>Cell Biology/Cellular Death and Stress Responses</subject><subject>Evolutionary Biology/Evolutionary Ecology</subject><subject>Physics/Interdisciplinary Physics</subject><subject>Radiology and Medical Imaging/Magnetic Resonance Imaging</subject></subj-group></article-categories>
+<title-group>
+<article-title><italic>In Vivo</italic> Assessment of Cold Adaptation in Insect Larvae by Magnetic Resonance Imaging and Magnetic Resonance Spectroscopy</article-title>
+<alt-title alt-title-type="running-head">Cryobiological MRI</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Mietchen</surname><given-names>Daniel</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref ref-type="aff" rid="aff3"><sup>3</sup></xref><xref ref-type="corresp" rid="cor1"><sup>*</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Manz</surname><given-names>Bertram</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Volke</surname><given-names>Frank</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib>
+<contrib contrib-type="author" xlink:type="simple"><name name-style="western"><surname>Storey</surname><given-names>Kenneth</given-names></name><xref ref-type="aff" rid="aff4"><sup>4</sup></xref></contrib>
+</contrib-group>
+<aff id="aff1"><label>1</label><addr-line>Magnetic Resonance Group, Fraunhofer Institute for Biomedical Engineering (IBMT), St. Ingbert, Germany</addr-line>       </aff>
+<aff id="aff2"><label>2</label><addr-line>Faculty of Physics and Mechatronics, University of the Saarland, Saarbrücken, Germany</addr-line>       </aff>
+<aff id="aff3"><label>3</label><addr-line>Department of Psychiatry, Friedrich-Schiller University Jena, Jena, Germany</addr-line>       </aff>
+<aff id="aff4"><label>4</label><addr-line>Institute of Biochemistry, Carleton University, Ottawa, Ontario, Canada</addr-line>       </aff>
+<contrib-group>
+<contrib contrib-type="editor" xlink:type="simple"><name name-style="western"><surname>Sinclair</surname><given-names>Brent</given-names></name>
+<role>Editor</role>
+<xref ref-type="aff" rid="edit1"/></contrib>
+</contrib-group>
+<aff id="edit1">University of Western Ontario, Canada</aff>
+<author-notes>
+<corresp id="cor1">* E-mail: <email xlink:type="simple">daniel.mietchen@uni-jena.de</email></corresp>
+<fn fn-type="con"><p>Conceived and designed the experiments: DM. Performed the experiments: DM BM. Analyzed the data: DM BM FV KBS. Contributed reagents/materials/analysis tools: FV KBS. Wrote the paper: DM BM KBS.</p></fn>
+</author-notes>
+<pub-date pub-type="collection"><year>2008</year></pub-date>
+<pub-date pub-type="epub"><day>5</day><month>12</month><year>2008</year></pub-date>
+<volume>3</volume>
+<issue>12</issue>
+<elocation-id>e3826</elocation-id>
+<history>
+<date date-type="received"><day>28</day><month>7</month><year>2008</year></date>
+<date date-type="accepted"><day>4</day><month>11</month><year>2008</year></date>
+</history>
+<copyright-statement>Mietchen et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</copyright-statement>
+<copyright-year>2008</copyright-year>
+<abstract><sec>
+<title>Background</title>
+<p>Temperatures below the freezing point of water and the ensuing ice crystal formation pose serious challenges to cell structure and function. Consequently, species living in seasonally cold environments have evolved a multitude of strategies to reorganize their cellular architecture and metabolism, and the underlying mechanisms are crucial to our understanding of life. In multicellular organisms, and poikilotherm animals in particular, our knowledge about these processes is almost exclusively due to invasive studies, thereby limiting the range of conclusions that can be drawn about intact living systems.</p>
+</sec><sec>
+<title>Methodology</title>
+<p>Given that non-destructive techniques like <sup>1</sup>H Magnetic Resonance (MR) imaging and spectroscopy have proven useful for <italic>in vivo</italic> investigations of a wide range of biological systems, we aimed at evaluating their potential to observe cold adaptations in living insect larvae. Specifically, we chose two cold-hardy insect species that frequently serve as cryobiological model systems–the freeze-avoiding gall moth <italic>Epiblema scudderiana</italic> and the freeze-tolerant gall fly <italic>Eurosta solidaginis</italic>.</p>
+</sec><sec>
+<title>Results</title>
+<p><italic>In vivo</italic> MR images were acquired from autumn-collected larvae at temperatures between 0°C and about −70°C and at spatial resolutions down to 27 µm. These images revealed three-dimensional (3D) larval anatomy at a level of detail currently not in reach of other <italic>in vivo</italic> techniques. Furthermore, they allowed visualization of the 3D distribution of the remaining liquid water and of the endogenous cryoprotectants at subzero temperatures, and temperature-weighted images of these distributions could be derived. Finally, individual fat body cells and their nuclei could be identified in intact frozen <italic>Eurosta</italic> larvae.</p>
+</sec><sec>
+<title>Conclusions</title>
+<p>These findings suggest that high resolution MR techniques provide for interesting methodological options in comparative cryobiological investigations, especially <italic>in vivo</italic>.</p>
+</sec></abstract>
+<counts><page-count count="10"/></counts></article-meta>
+</front>
+<body><sec id="s1">
+<title>Introduction</title>
+<p>Cold hardiness–the ability to withstand temperatures below the freezing point of water–has been found in a broad variety of poikilothermic species ranging from prokaryotes to plants to nematodes to insects and fish, and it also occasionally occurs in amphibians or reptiles <xref ref-type="bibr" rid="pone.0003826-Storey1">[1]</xref>. Insects clearly belong to the taxa whose cold hardiness has been investigated most thoroughly, in part due to commercial interests in killing pest species in agriculture and forestry <xref ref-type="bibr" rid="pone.0003826-Lee1">[2]</xref> or in managing valuable species, such as stocks of genetic model organisms like the fruitfly <italic>Drosophila melanogaster</italic> <xref ref-type="bibr" rid="pone.0003826-Mazur1">[3]</xref>.</p>
+<p>Methodologically, whole-body extracts have been the most popular choice for studies of cryoprotectant synthesis and other aspects of intermediary metabolism, usually performed using quantitative organochemical techniques as well as biochemical methods like enzyme assays and kinetic analyses <xref ref-type="bibr" rid="pone.0003826-Lee2">[4]</xref>, <xref ref-type="bibr" rid="pone.0003826-Storey2">[5]</xref>. The presence of antifreeze proteins or ice nucleating proteins in hemolymph is analyzed by various osmometric techniques or differential scanning calorimetry <xref ref-type="bibr" rid="pone.0003826-Duman1">[6]</xref>, <xref ref-type="bibr" rid="pone.0003826-Zachariassen1">[7]</xref>, and electron and optical microscopic techniques have been used in some studies to elucidate ultrastructural details of cryodamage <xref ref-type="bibr" rid="pone.0003826-Collins1">[8]</xref>, <xref ref-type="bibr" rid="pone.0003826-Yi1">[9]</xref>.</p>
+<p>What all these different approaches have in common is that they do not allow for <italic>in vivo</italic> observations, albeit the latter are generally more informative and now commonplace in many branches of the biosciences. Magnetic Resonance (MR) techniques, in particular, have found many applications in the life sciences, especially whenever liquid water was of interest (e.g. <xref ref-type="bibr" rid="pone.0003826-Boesch1">[10]</xref>–<xref ref-type="bibr" rid="pone.0003826-Wthrich1">[14]</xref>). Since this is the case in cryoprotection, too, we designed the present study to assess the potential of high resolution MR imaging for cryobiological investigations.</p>
+<sec id="s1a">
+<title>Cryobiological model organisms</title>
+<p>The animals we chose for our study were the larvae of two long-standing model species for insect cold hardiness–the freeze-avoiding gall moth <italic>Epiblema scudderiana</italic> and the freeze-tolerant gall fly <italic>Eurosta solidaginis</italic>. They share the same habitat (stem galls on goldenrod plants, genus <italic>Solidago</italic>) but use different overwintering strategies <xref ref-type="bibr" rid="pone.0003826-Storey3">[15]</xref>. <italic>Epiblema</italic> larvae accumulate huge amounts of glycerol, up to 20% of their wet body mass, during autumn cold-hardening <xref ref-type="bibr" rid="pone.0003826-Rickards1">[16]</xref>. This–combined with the probable presence of ice-structuring proteins <xref ref-type="bibr" rid="pone.0003826-Clarke1">[17]</xref> in this species, elimination of ice nucleators from the body, and partial dehydration <xref ref-type="bibr" rid="pone.0003826-Rickards1">[16]</xref>, <xref ref-type="bibr" rid="pone.0003826-Storey4">[18]</xref>–allows deep supercooling of body fluids down to approximately −38°C, which is about 10°C below the lowest temperatures that <italic>Epiblema</italic> larvae typically experience during winter.</p>
+<p><italic>Eurosta</italic> larvae also synthesize cryoprotectants in response to low temperature cues as the autumn progresses. They achieve this by mobilizing large glycogen stores that are built up during the feeding season in summer. This species uses a two-component system with glycerol synthesis triggered when ambient temperatures fall below about +15°C, whereas sorbitol production is stimulated below +5°C. Likewise, membrane stabilizers such as the disaccharide trehalose and the amino acid proline are produced during the period of cold hardening. During autumn, the larvae also elevate the supercooling point of body fluids to about −8°C, so that freezing can be triggered at a relatively high subzero temperature that allows proper ice management and metabolic adjustments upon the onset of freezing temperatures <xref ref-type="bibr" rid="pone.0003826-Lee2">[4]</xref>. Prepared this way, <italic>Eurosta</italic> larvae can survive in a frozen state down to at least −30°C in southern Canada.</p>
+</sec><sec id="s1b">
+<title>MR principle</title>
+<p>The concept of Nuclear Magnetic Resonance (commonly abbreviated NMR or MR) has repeatedly found comprehensive treatment elsewhere–see, e.g., <xref ref-type="bibr" rid="pone.0003826-Abragam1">[19]</xref> or <xref ref-type="bibr" rid="pone.0003826-Slichter1">[20]</xref> for spectroscopy and <xref ref-type="bibr" rid="pone.0003826-Callaghan1">[13]</xref> or <xref ref-type="bibr" rid="pone.0003826-Blmich1">[12]</xref> for imaging–and will therefore only briefly be sketched here. In short, MR describes the absorption of electromagnetic energy by a subpopulation of atomic nuclei in an external static magnetic field when irradiated at an isotope-specific resonance frequency directly proportional to the local magnetic field strength (or magnetic flux density, to be precise, but the two units are often used interchangeably in this context, since they are proportional to each other). When the absorbed energy is released upon return to the thermal equilibrium, an inductive signal (with the relaxation times <italic>T</italic><sub>1</sub> and <italic>T</italic><sub>2</sub> parallel or perpendicular to the axis of the main magnetic field, respectively) can be observed.</p>
+<p>In liquids, the reorientation of the dipolar interaction is usually in the fast motion regime, where both <italic>T</italic><sub>1</sub> and <italic>T</italic><sub>2</sub> are on the order of several 100 s of milliseconds or seconds. In solids, the rate of this reorientation is dramatically reduced and therefore in the slow motion regime (<xref ref-type="bibr" rid="pone.0003826-Slichter1">[20]</xref>, <xref ref-type="bibr" rid="pone.0003826-Callaghan1">[13]</xref>). As a consequence, the longitudinal MR relaxation time <italic>T</italic><sub>1</sub> of water ice is similar to the <italic>T</italic><sub>1</sub> of liquid water but the transverse relaxation time <italic>T</italic><sub>2</sub> is about five to six orders of magnitude lower than in liquid water of the same composition <xref ref-type="bibr" rid="pone.0003826-Bloembergen1">[21]</xref>. With the exponential relationship between the MR signal and <italic>T</italic><sub>2</sub> <xref ref-type="bibr" rid="pone.0003826-Abragam1">[19]</xref>, this translates (under identical acquisition schemes) into an enormous signal loss upon freezing and a corresponding signal increase upon thawing, which provide a good theoretical basis for the experimental observation of these processes.</p>
+<p>The local field strength that an atomic nucleus within a sample of interest experiences in the MR magnet is a function of both the static magnetic field (9.4 T in our case) and the molecular neighbourhood in which that nucleus (say, <sup>1</sup>H) is embedded (say, an OH or a CH<sub>3</sub> group). The resonance frequencies of a given type of nucleus (e.g. 400 MHz for <sup>1</sup>H at 9.4 T) thus vary slightly (in some parts per million, or ppm) with its chemical environment–a phenomenon known as chemical shift that forms the basis for MR spectroscopy (MRS). Other than by electron shielding, the local field strength can be manipulated through magnetic fields supplementary to the static magnetic field. If the field strengths of these are space-dependent, the resonant frequency becomes space-dependent, too, which allows for the generation of spatial representations of the sample's MR-accessible structures. This approach is known as MR imaging (MRI). Following conventions in optical microscopy, MRI at spatial resolutions below the spatial resolution limit of human vision (about 100 µm) is often also referred to as MR microscopy, or MRM <xref ref-type="bibr" rid="pone.0003826-Blmich1">[12]</xref>, <xref ref-type="bibr" rid="pone.0003826-Callaghan1">[13]</xref>, <xref ref-type="bibr" rid="pone.0003826-Tyszka1">[22]</xref>.</p>
+<p>Short <italic>T</italic><sub>2</sub> relaxation times, i.e. quick signal decay which generally indicates that many of the MR-visible nuclei are restricted in their molecular mobility, result in broad peaks in MR spectra. If an originally liquid sample with several well-separated MR peaks were to become entirely solid, the different peaks would broaden, start to overlap and finally form one unspecific peak spanning the whole spectrum, even though the underlying processes are not necessarily identical for different molecular species: while all peaks broaden due to relaxation effects, the OH peak in the <sup>1</sup>H spectrum of aqueous solutions experiences additional (exchange) broadening due to exchange with OH protons from the surrounding water.</p>
+<p>In MR imaging, the time needed for signal acquisition generally increases with the number of image pixels that the resulting image is to contain in a given direction. The quick <italic>T</italic><sub>2</sub> decay hence seriously impedes the acquisition of high resolution MR images from solids, and signal contributions can in general terms only be expected from the narrowest peaks of the spectrum at the given temperature.</p>
+<p>Spatial and chemical information can be combined in MR experiments, in two major fashions: Localized spectroscopy <xref ref-type="bibr" rid="pone.0003826-Bottomley1">[23]</xref> allows the acquisition of spectral information from well-defined volume elements (or voxels) within the sample, whereas spectral imaging techniques (known as Chemical Shift-Selective Imaging, abbreviated CHESS, CSSI or CSI; reviewed in <xref ref-type="bibr" rid="pone.0003826-Brateman1">[24]</xref>) map the spectral contributions from nuclei in selected chemical environments (e.g. <sup>1</sup>H in water or aliphatic groups) along the selected spatial dimensions of the sample.</p>
+</sec><sec id="s1c">
+<title>Previous MR studies relevant to cryobiology</title>
+<p>The first applications of MR to frozen samples of biological relevance was the determination of brine content in sea ice by comparing the integral MRS signal intensity within a sea ice sample and a solution of known composition that was obtained by melting a sea ice sample <xref ref-type="bibr" rid="pone.0003826-Richardson1">[25]</xref>.</p>
+<p>MRS has since found multiple applications related to cryobiology, ranging from <sup>31</sup>P analysis of adenylate energy metabolism during freezing <xref ref-type="bibr" rid="pone.0003826-Storey5">[26]</xref>, to <sup>13</sup>C studies of lipids and carbohydrates <xref ref-type="bibr" rid="pone.0003826-Buchanan1">[27]</xref> to <sup>1</sup>H studies of glucose metabolism and transamination after thawing <xref ref-type="bibr" rid="pone.0003826-Dabos1">[28]</xref> as well as of water content in plants <xref ref-type="bibr" rid="pone.0003826-George1">[29]</xref>, biocatalytic model systems <xref ref-type="bibr" rid="pone.0003826-Volke1">[30]</xref> or food <xref ref-type="bibr" rid="pone.0003826-Mariette1">[31]</xref> at subzero temperatures.</p>
+<p>Brine content again was the dominating feature in the first <sup>1</sup>H MR images of salt-water ice mimicking the mineral composition of sea water <xref ref-type="bibr" rid="pone.0003826-Edelstein1">[32]</xref>, and of sea ice cores (<xref ref-type="bibr" rid="pone.0003826-Callaghan2">[33]</xref>, acquired at geomagnetic field strength in Antarctica). Furthermore, the diffusivity of the brine phase in intact sea ice cores was measured <xref ref-type="bibr" rid="pone.0003826-Callaghan3">[34]</xref>, the previously reported temperature dependence of brine content <xref ref-type="bibr" rid="pone.0003826-Melnichenko1">[35]</xref> could be correlated with changes in brine pocket size by MR imaging of sea ice <xref ref-type="bibr" rid="pone.0003826-Eicken1">[36]</xref>, and the freezing process was followed in a sea ice model system <xref ref-type="bibr" rid="pone.0003826-Menzel1">[37]</xref>.</p>
+<p>Apart from monitoring brine content, <sup>1</sup>H MR imaging has been used to observe pore structure in permafrost samples <xref ref-type="bibr" rid="pone.0003826-Kleinberg1">[38]</xref>, to follow ice nucleation in single drops of cryoprotective solutions <xref ref-type="bibr" rid="pone.0003826-Hindmarsh1">[39]</xref>, for temperature mapping and cryodamage assessment during cryosurgery <xref ref-type="bibr" rid="pone.0003826-Daniel1">[40]</xref>, <xref ref-type="bibr" rid="pone.0003826-Samset1">[41]</xref>, and for the monitoring of freezing and thawing in food <xref ref-type="bibr" rid="pone.0003826-Kerr1">[42]</xref>, cold-hardy plants <xref ref-type="bibr" rid="pone.0003826-Price1">[43]</xref>, <xref ref-type="bibr" rid="pone.0003826-VanAs1">[44]</xref> and animals such as frogs and turtles <xref ref-type="bibr" rid="pone.0003826-Rubinsky1">[45]</xref>, <xref ref-type="bibr" rid="pone.0003826-Rubinsky2">[46]</xref>.</p>
+<p>CHESS imaging has previously been used to investigate insect larval development (e.g. <xref ref-type="bibr" rid="pone.0003826-Goodman1">[47]</xref>) in a non-cryobiological context, and technological developments in the MR field have recently seen <italic>in vivo</italic> spatial resolution in non-frozen samples reach the size range relevant for entomological <xref ref-type="bibr" rid="pone.0003826-Hart1">[48]</xref> and subcellular investigations <xref ref-type="bibr" rid="pone.0003826-Lee3">[49]</xref>, <xref ref-type="bibr" rid="pone.0003826-Lee4">[50]</xref>.</p>
+<p>The present study combined these two fields of investigation by demonstrating the feasibility of high-resolution MR imaging of insect larvae in a cryobiological context.</p>
+</sec></sec><sec id="s2">
+<title>Methods</title>
+<sec id="s2a">
+<title>Insect collection and preparation</title>
+<p><italic>Solidago</italic> galls containing larvae of <italic>Epiblema scudderiana</italic> and <italic>Eurosta solidaginis</italic> were collected from fields around Ottawa, Canada in late October 2005. Galls were placed in cloth bags and kept outdoors until mid-December where they experienced ambient temperatures which included subzero temperatures most nights (lowest values being −10°C to −12°C on some nights). Previous studies have shown that glycerol levels are maximal in both species by late November, whereas sorbitol in <italic>Eurosta</italic> reaches at least 50% of the midwinter levels by this time <xref ref-type="bibr" rid="pone.0003826-Rickards1">[16]</xref>, <xref ref-type="bibr" rid="pone.0003826-Storey5">[26]</xref>. In mid-December, galls were shipped to Germany in insulated containers with cold packs to maintain temperature at 0–5°C and were stored in the lab at 1°C until experimentation.</p>
+<p><italic>Epiblema</italic> larvae were imaged while still in their galls (cf. <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1A</xref>). The galls induced in <italic>Solidago</italic> stems by <italic>Eurosta solidaginis</italic> are much larger, which complicates high resolution imaging of the larvae themselves. For this reason, <italic>Eurosta</italic> larvae were removed from their galls (cf. <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1B</xref>) and positioned on cryowell plates that are routinely used for cryobiological applications at Fraunhofer-IBMT <xref ref-type="bibr" rid="pone.0003826-Zimmermann1">[51]</xref> (cf. <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1C</xref>).</p>
+<fig id="pone-0003826-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g001</object-id><label>Figure 1</label><caption>
+<title>Galls and larvae used in this experiment.</title>
+<p>(A) Photograph of an <italic>Epiblema scudderiana</italic> larva (head is right) in its gall, taken after the experiment. The gall was left intact throughout the experiments and only cut open afterwards to confirm the position during the NMR experiments. Normal position both in nature and in the magnet is upright. (B) Photograph of an <italic>Eurosta solidaginis</italic> gall before the start of the experiment. The insect was removed from the gall for the sake of increased spatial resolution. (C) Photograph taken after the experiment, indicating the positioning on the horizontal microwell plate. Note the yellowish appearance due to glycerol. All scale bars in this figure represent 5 mm.</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g001" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig>
+<p>For each species, the imaging and cooling protocols were tested with one individual in a pilot experiment, and all data shown here are from another individual freshly obtained from the cooling chamber directly prior to the experiment.</p>
+</sec><sec id="s2b">
+<title>Magnetic Resonance</title>
+<sec id="s2b1">
+<title>MR parameters</title>
+<p>The MR images and spectra described in here were acquired on a Bruker Avance 400 NMR spectrometer (Bruker, Rheinstetten, Germany) with standard Micro2.5 microimaging system, operating at a <sup>1</sup>H resonance frequency of 400 MHz. For the <italic>Epiblema</italic> larva, typical proton density images were recorded using a 3D spin-echo imaging pulse sequence with a field of view of 12×12×12 mm<sup>3</sup>, a matrix size of 256<sup>3</sup> voxels, an echo time <italic>T<sub>E</sub></italic> = 2.2 ms, a repetition time <italic>T<sub>R</sub></italic> = 0.9 s, resulting in an isotropic voxel resolution of 47 µm. The 3D proton density images for the <italic>Eurosta</italic> larva were acquired with a field of view of 7×7×3.5 mm<sup>3</sup>, a matrix size of 256×256×128 voxels, an echo time <italic>T<sub>E</sub></italic> = 1.8 ms, a repetition time <italic>T<sub>R</sub></italic> = 1 s, resulting in an isotropic voxel resolution of 27 µm. CHESS imaging was achieved with selective excitation of the water or lipid resonances (cf. <xref ref-type="fig" rid="pone-0003826-g002">Fig. 2</xref>) by means of a 4 ms long sinc-shaped excitation pulse with the frequency of the water or lipid resonance <xref ref-type="bibr" rid="pone.0003826-Bottomley1">[23]</xref>. Due to this long excitation pulse, the echo time had to be increased to 4.7 ms, resulting in a large signal loss compared to the non-selective images as a consequence of <italic>T<sub>2</sub></italic> relaxation. Therefore, the matrix size was reduced to 64×64×32 voxels at temperatures below −20°C, resulting in an isotropic voxel resolution of 110 µm. The repetition time <italic>T<sub>R</sub></italic> was then set to 0.5 s.</p>
+<fig id="pone-0003826-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g002</object-id><label>Figure 2</label><caption>
+<title><sup>1</sup>H NMR spectra of insect larvae at different temperatures (intensity in arbitrary units but on scale across temperatures).</title>
+<p>A: <italic>Epiblema</italic>, B: <italic>Eurosta</italic>. The broad peak referenced to 4.7 ppm represents hydroxyl groups (in water, glycerol and sorbitol), whereas hydrocarbon groups from glycerol and sorbitol are located around 3.6 ppm, and otherhydrocarbon groups, e.g. from lipids, around 1–2 ppm. Note that glycerol is present in both species, sorbitol only in <italic>Eurosta</italic>. For acquisition parameters in the images presented in this paper, see <xref ref-type="sec" rid="s2">Methods</xref> section. C: Freezing trajectory, as extracted from the spectra above by integrating over the whole spectrum (<italic>Epiblema</italic>, black squares) or individual peaks (<italic>Eurosta</italic>, circles with upright cross for OH peak, circles with oblique cross for CH<sub>x</sub> peak, red circles for whole spectrum) at the given temperature. Signal intensity in each species was normalized to the respective value measured at −20°C. Note that the CH<sub>x</sub> peak integral does not change with temperature, while the OH peak integral does, thereby being responsible for the changes seen in the whole-spectrum trajectory in <italic>Eurosta</italic>. Most (if not all) of the signal loss observed in the <italic>Epiblema</italic> trajectory are presumably also due to the freezing of water but these contributions could not be reliably separated, since the peaks overlap in the spectrum (cf. A).</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g002" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig>
+<p>The images were processed and visualized with the help of ImageJ (developed at the National Institutes of Health and available online via <ext-link ext-link-type="uri" xlink:href="http://rsb.info.nih.gov/ij" xlink:type="simple">http://rsb.info.nih.gov/ij</ext-link>). Three-dimensional models were calculated as isosurfaces from the MR images using the software package Amira (Mercury Computer Systems, Merignac, France).</p>
+</sec></sec><sec id="s2c">
+<title>Temperature control</title>
+<p>Temperature regulation was achieved using a Bruker variable temperature unit BVT3000. Liquid nitrogen was evaporated in a closed 30 l dewar using a small heater. The cold nitrogen gas was then heated up by the temperature controller before streaming around the glass tube containing the sample. The temperature sensor (copper-constantan thermocouple) had to be placed approximately 4 cm away from the sample in order to avoid image distortions due to the metal parts. At the sample location, the temperature was calibrated via the line splitting between the methyl and hydroxyl groups in a 100% methanol sample <xref ref-type="bibr" rid="pone.0003826-Raiford1">[52]</xref>. Temperature changes were always administered at a rate of 1 K/min, and once the target temperature was reached, the sample was allowed at least one hour for thermal equilibration. Then, temperature-dependent MR parameters were adjusted, and the temperature was kept constant for each acquisition of an image or spectrum.</p>
+</sec></sec><sec id="s3">
+<title>Results</title>
+<sec id="s3a">
+<title>MR spectroscopy</title>
+<p><xref ref-type="fig" rid="pone-0003826-g002">Fig. 2</xref> shows <sup>1</sup>H MR spectra of an <italic>Epiblema</italic> larva (A) and an <italic>Eurosta</italic> larva (B), acquired at different freezing temperatures, while the signal changes with temperature are indicated in the diagram at the bottom. The two broad peaks in the spectra can be assigned (following <xref ref-type="bibr" rid="pone.0003826-Volke2">[53]</xref>) to hydroxyl groups from water (4.7 ppm) as well as glycerol and sorbitol (4.5 ppm) and to hydrocarbon groups from glycerol and sorbitol (around 3.5 ppm) as well as other sources, e.g. lipids (around 1–2 ppm). With decreasing temperature, peak broadening and an overall loss in signal intensity become apparant (cf. section on the MR principle).</p>
+<p>While the peaks in the <italic>Epiblema</italic> spectra (<xref ref-type="fig" rid="pone-0003826-g002">Fig. 2A</xref>) exhibit a degree of overlapping that does not allow for a detailed separate analysis, the hydroxyl and hydrocarbon peaks in <italic>Eurosta</italic> (<xref ref-type="fig" rid="pone-0003826-g002">Fig. 2B</xref>) are well separated in the spectra. Therefore, the relative portions of these compounds can be estimated from the integrals of the respective peaks: Taking the integral of the hydroxyl peak at −20°C as a reference, the hydroxyl peak at −40°C reaches about 35% thereof, while the hydrocarbon peaks at −20°C and −40°C each stand at about 40% of that reference value (cf. <xref ref-type="fig" rid="pone-0003826-g002">Fig. 2C</xref>). Given that there are no hydrocarbon groups in water and that both glycerol and sorbitol have equal numbers of hydroxyl and hydrocarbon groups, this decline of the hydroxyl peak integral relative to the hydrocarbon peak integral clearly indicates that the system has lost liquid water due to freezing.</p>
+<p>This effect can also be quantified, at least approximately: although a single or few layers of water molecules can remain in a liquid phase even below the homogeneous nucleation temperature as a result of surface interactions with non-water molecules <xref ref-type="bibr" rid="pone.0003826-Volke1">[30]</xref>, <xref ref-type="bibr" rid="pone.0003826-Hsieh1">[54]</xref>, <xref ref-type="bibr" rid="pone.0003826-Koop1">[55]</xref>, it can be assumed, for simplicity, that the hydroxyl signal at −40°C essentially stems from glycerol and sorbitol. The 65% signal loss of the hydroxyl peak between −20°C and −40°C can thus be attributed to the freezing of water. This also means that liquid water accounts for 65% of the hydroxyl signal at −20°C.</p>
+<p>The freezing trajectory (<xref ref-type="fig" rid="pone-0003826-g002">Fig. 2C</xref>) of the hydrocarbon peak in the <italic>Eurosta</italic> spectra, on the other hand, remains constant within the inspected temperature range, reflecting the absence of a phase transition in the hydrocarbons (which include non-glycerol and non-sorbitol contributions, e.g. from membrane lipids). So it cannot be used for the direct observation of freezing process but it can serve as an internal reference to the hydroxyl peak.</p>
+<p>As for <italic>Epiblema</italic>, though the peaks in the spectra could not be separated, the freezing trajectory extracted from the spectra also clearly shows a signal loss at lower temperature, attributable to freezing (<xref ref-type="fig" rid="pone-0003826-g002">Fig. 2C</xref>).</p>
+</sec><sec id="s3b">
+<title>MR imaging</title>
+<p><xref ref-type="fig" rid="pone-0003826-g003">Fig. 3</xref> shows slices from a 3D <sup>1</sup>H MR image (left) and <sup>1</sup>H MR spectra (right), acquired at the indicated temperatures, of the <italic>Epiblema</italic> larva in an orientation similar to the photograph in <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1A</xref>. When the images and spectra were recorded, the <italic>Solidago</italic> gall was still intact, albeit not visible in the MR images on this contrast scale.</p>
+<fig id="pone-0003826-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g003</object-id><label>Figure 3</label><caption>
+<title>Correspondence between NMR images and spectra: <sup>1</sup>H NMR images and corresponding NMR spectra of an <italic>Epiblema</italic> larva at different temperatures.</title>
+<p>Relative signal intensity (from black = low to white = high; identical for all MR images in this paper, even though absolute intensities vary considerably) is given in arbitrary units but on scale across temperatures. Image resolution: 47 µm (isotropic). The images were rotated by 90° for better presentation–positioning of the larva was with head up (right), tail down (now left). The spectra are the same as in <xref ref-type="fig" rid="pone-0003826-g002">Fig. 2A</xref> and repeated here to facilitate interpretation of the images. Note the image blurring at 0°C and −20°C, hinting at head and tail motion of the larva. The complete slice series of these four 3D images are given as <xref ref-type="supplementary-material" rid="pone.0003826.s001">Movie S1</xref>. This video also shows the signal contributions from the <italic>Solidago twig</italic>, which exhibit a different temperature dependence than the signal from the larva.</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g003" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig>
+<p>With decreasing temperature, the signal intensity in the images is decreasing too (due to temperature-induced peak broadening, as explained above), though inhomogeneously (due to spatially inhomogeneous distribution of water and cryoprotectant). The high overall signal intensity in the images acquired at the higher temperatures clearly reveals that the larva is not frozen and instead still in a supercooled state. At temperatures above −35°C, the contours of the anterior segments appear slightly blurred due to a movement artifact that testifies to the vitality of the animal. However, after being cooled down to temperatures below its supercooling point, the <italic>Epiblema</italic> larva did not revive, which fits with its classification as a freeze-avoiding species.</p>
+</sec><sec id="s3c">
+<title>Spectral imaging</title>
+<p><xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref> depicts 3D <sup>1</sup>H MR images and spectra acquired from an <italic>Eurosta</italic> larva at two different temperatures. The figure also demonstrates how CHESS imaging (for details, see <xref ref-type="sec" rid="s2">Methods</xref>) can reveal details about the 3D distribution of different chemicals: Image slices labeled “All” were taken from 3D images acquired using chemical information from the whole spectrum, whereas the slices labeled “Water” and “Fat”, respectively, were taken from 3D images that used spectral information from either the water or hydrocarbon peaks.</p>
+<fig id="pone-0003826-g004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g004</object-id><label>Figure 4</label><caption>
+<title>Imaging the three-dimensional distribution of water and cryoprotectant in a living frozen organism: <sup>1</sup>H NMR images and corresponding NMR spectra of an <italic>Eurosta</italic> larva at different temperatures (intensity in arbitrary units but on scale across temperatures).</title>
+<p>All images have been rotated by 90°for ease of display (direction of gravity was from right to left). The images labeled “All” were acquired by using the whole spectrum (at a resolution of 27 µm), whereas the “Water” and “Fat” images only represent contributions from the hydroxyl peak at 4.7 ppm and the hydrocarbon peak at around 1 ppm, respectively (acquired at a resolution of 27 µm at −20°C and of 110 µm at −40°C; the latter were zero-filled to facilitate comparison across temperatures). The overall signal intensity of the water and fat images at a given temperature do not add up to the intensity of the whole-spectrum image because the CHESS sequences required longer echo times (for details, see <xref ref-type="sec" rid="s2">methods</xref> section). The spectra are repeated from <xref ref-type="fig" rid="pone-0003826-g002">Fig. 2B</xref> to facilitate interpretation of the images. Note the single cells visible (with their nuclei) in all three images at −20°C and particularly in the whole-spectrum image at −40°C. Shape distortions with respect to normal anatomy of <italic>Eurosta</italic> larvae are due to the positioning on the cryowells, as indicated in <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1C</xref>, while seemingly morphological differences between the images also reflect the rescaling of the images, or movements of the animal. The complete slice series of these six 3D images are presented separately by temperature (−20°C or −40°C) and spectral coverage (All/Water/Fat) in <xref ref-type="supplementary-material" rid="pone.0003826.s002">Movies S2</xref>, <xref ref-type="supplementary-material" rid="pone.0003826.s003">S3</xref>, <xref ref-type="supplementary-material" rid="pone.0003826.s004">S4</xref>, <xref ref-type="supplementary-material" rid="pone.0003826.s005">S5</xref>, <xref ref-type="supplementary-material" rid="pone.0003826.s006">S6</xref> and <xref ref-type="supplementary-material" rid="pone.0003826.s007">S7</xref>: At −20°C, <xref ref-type="supplementary-material" rid="pone.0003826.s002">Movie S2</xref> covers the whole spectrum and <xref ref-type="supplementary-material" rid="pone.0003826.s003">Movie S3</xref> and <xref ref-type="supplementary-material" rid="pone.0003826.s004">Movie S4</xref> the water and fat image, respectively. At −40°C, <xref ref-type="supplementary-material" rid="pone.0003826.s005">Movie S5</xref> covers the whole spectrum and <xref ref-type="supplementary-material" rid="pone.0003826.s006">Movie S6</xref> and <xref ref-type="supplementary-material" rid="pone.0003826.s007">Movie S7</xref> the water and hydrocarbon images, respectively. Image orientation in the movies reflects the horizontal positioning of the larva during the experiment (cf. <xref ref-type="fig" rid="pone-0003826-g001">Fig. 1C</xref>).</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g004" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig>
+<p>Interestingly, the water and hydrocarbon images (cf. <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>) were very distinct and almost complementary to each other, thereby highlighting the potential of CHESS imaging to assist investigations into the 3D distribution of water and cryoprotectants. While the spectrum acquired at −40°C already indicates that most of the water in the larva was frozen, the CHESS images reveal that freezing does not occur homogeneously across the organism.</p>
+<p>Individual cells are hard to identify in regions where strong signal losses (and thus freezing) do occur but, interestingly, a number of large cells (termed fat cells–those with a higher signal intensity in the hydrocarbon images, indicating larger quantities of cryoprotectant) clearly remain non-frozen and even allow their nuclei to be discerned (see dark spots therein), particularly in the whole-spectrum images.</p>
+<p>MR techniques have a two decade-long history of single-cell imaging (cf. <xref ref-type="bibr" rid="pone.0003826-Aguayo1">[56]</xref>), and <italic>in vivo</italic> MR images of single cells have been acquired before (for recent reviews, see <xref ref-type="bibr" rid="pone.0003826-Tyszka1">[22]</xref>, <xref ref-type="bibr" rid="pone.0003826-Ciobanu1">[57]</xref>) but to our knowledge, these fat cells represent the first instance of individual cells having been imaged <italic>in vivo</italic> inside an opaque multicellular organism in a frozen state (corresponding optical images have been obtained by <xref ref-type="bibr" rid="pone.0003826-Wharton1">[58]</xref> in a transparent Antarctic worm). That the larva were still alive during the experiment was confirmed by the motion artefacts (cf. <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>) and by the observation–in line with the classification of <italic>Eurosta solidaginis</italic> as a freeze-tolerant species–that they successfully revived and moved normally after thawing.</p>
+<p>As the data acquired from the larvae had spatial, spectral and temperature dimensions for both species, a number of possibilities exist to visualize them. This is illustrated in <xref ref-type="fig" rid="pone-0003826-g005">Fig. 5</xref> and <xref ref-type="fig" rid="pone-0003826-g006">Fig. 6</xref> which emphasize two different aspects of the methodology: <xref ref-type="fig" rid="pone-0003826-g005">Fig. 5</xref> shows the 3D distribution of water and hydrocarbons in the <italic>Eurosta</italic> larva at −20°C, thereby highlighting spectral (CHESS) imaging. <xref ref-type="fig" rid="pone-0003826-g006">Fig. 6</xref> differentiates between the whole-spectrum 3D <sup>1</sup>H MR images acquired at −35°C from the <italic>Epiblema</italic> larva and the corresponding images at −70°C, thereby providing for an example of temperature-coded imaging. We are not aware of any other method that would allow to generate temperature-weighted three-dimensional images of intact organisms, though this tool for the quantification of temperature effects would certainly be of use for many a cryobiological investigation (e.g. on possible hysteresis effects in repeated freeze-thaw cycles, or for the monitoring of the interaction of tissue with markers or transgrafts) as well as in teaching cryobiology.</p>
+<fig id="pone-0003826-g005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g005</object-id><label>Figure 5</label><caption>
+<title>Three-dimensional modeling: 3D model of a <italic>Eurosta</italic> larva, based on <sup>1</sup>H NMR water and fat images (cf. Fig. 3) obtained at −20°C.</title>
+<p>The water-based 3D model is depicted in semi-transparent brown and the model based on the fat signal in red. An animation of this chemical shift-coded composite 3D model is supplied as the supplementary video file <xref ref-type="supplementary-material" rid="pone.0003826.s008">Movie S8</xref>.</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g005" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig><fig id="pone-0003826-g006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0003826.g006</object-id><label>Figure 6</label><caption>
+<title>Temperature-weighted imaging: 3D model of an <italic>Epiblema</italic> larva, based on <sup>1</sup>H NMR whole-spectrum images (cf. Fig. 4) obtained at −35°C (brown) and −70°C (red).</title>
+<p>An animation of this temperature-coded composite 3D model is supplied as the supplementary video file <xref ref-type="supplementary-material" rid="pone.0003826.s009">Movie S9</xref>.</p>
+</caption><graphic xlink:href="info:doi/10.1371/journal.pone.0003826.g006" alt-version="no" mimetype="image" position="float" xlink:type="simple"/></fig></sec></sec><sec id="s4">
+<title>Discussion</title>
+<p>The experiments described in this paper have presented a new cryobiological tool by showing that three-dimensional microscopic MR images can be acquired from intact insect larvae under cryobiological conditions. The properties observable in these image sets include anatomical structures of the larvae down to the cellular level as well as larval chemical composition, or temperature-dependent changes thereof.</p>
+<p>This opens the door for further MR-based cryobiological investigations: It is known, for example, that non-frozen fat body cells of overwintering Eurosta larvae have a water content of only about 35% (<xref ref-type="bibr" rid="pone.0003826-Davis1">[59]</xref>). The images in <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, then, raise questions about the distribution of this little amount of water (liquid or frozen) and cryoprotectant between extracellular and intracellular compartments at different temperatures. Such issues are hard to address experimentally in vivo (for previous work, see <xref ref-type="bibr" rid="pone.0003826-Salt1">[60]</xref> on cells and <xref ref-type="bibr" rid="pone.0003826-Wharton1">[58]</xref> in intact organisms) but the MR signal, and therefore the MR image contrast, is a reflection of the molecular interactions of molecular species in different chemical environments. Thus, water and hydrocarbon signals can be separated on the basis of MR spectra, and signal contributions from cellular and extracellular structures with MR-based diffusion measurements (as in <xref ref-type="bibr" rid="pone.0003826-VanZijl1">[61]</xref>). Consequently, MR microimaging studies can be a valuable aid in gaining a deeper understanding of cold adaptations at the cellular level.</p>
+<p>Furthermore, MR microimaging could be used to develop and test new cryobiotechnological methodologies by providing microscopic images of the status of tissues and cells (e.g. amount and distribution of liquid and frozen water) within an organism at different stages of a freeze-thaw cycle.</p>
+<p>The technique would also be an excellent aid to assessing (perhaps while experimentally manipulating) the cold hardiness strategy of species and tissues; for example, the images in <xref ref-type="fig" rid="pone-0003826-g003">Fig. 3</xref> very clearly show a huge difference in signal between −35°C where the larva is still in the supercooled state and −70°C where the larva is frozen. They also correspond with the known viability of this species which is (in the absence of inoculative freezing) remarkably high at temperatures at or above the supercooling point of about −40°C but quickly reaches zero below this temperature <xref ref-type="bibr" rid="pone.0003826-Rickards1">[16]</xref>.</p>
+<p>MR microimaging studies of frozen <xref ref-type="bibr" rid="pone.0003826-Eicken1">[36]</xref>, <xref ref-type="bibr" rid="pone.0003826-Rubinsky1">[45]</xref>, <xref ref-type="bibr" rid="pone.0003826-Rubinsky2">[46]</xref> or otherwise dehydrated samples <xref ref-type="bibr" rid="pone.0003826-Borgia1">[62]</xref>–<xref ref-type="bibr" rid="pone.0003826-Mietchen2">[65]</xref>, <xref ref-type="bibr" rid="pone.0003826-Mller1">[66]</xref>, <xref ref-type="bibr" rid="pone.0003826-Schneider1">[67]</xref> are still limited in number and scope, much like non-invasive investigations into developing organisms or single cells therein <xref ref-type="bibr" rid="pone.0003826-Lee4">[50]</xref>. However, MR techniques already currently provide a multitude of experimental options at the different levels of biological organization. Since the necessary equipment is being installed in more and more laboratories, such investigations will certainly contribute significantly to the understanding of living systems, even more so in light of a number of further technological advances in the MR field (for review, see <xref ref-type="bibr" rid="pone.0003826-Glover1">[68]</xref>).</p>
+<p>Experiments at higher magnetic field strengths result in increased signal-to-noise ratios and improved peak separability <xref ref-type="bibr" rid="pone.0003826-Rovnyak1">[69]</xref>, cryoprobes reduce the noise <xref ref-type="bibr" rid="pone.0003826-Darrasse1">[70]</xref>, stronger gradients open the door to higher spatial resolution <xref ref-type="bibr" rid="pone.0003826-Ciobanu1">[57]</xref>, while sophisticated pulse sequences allow to coax ever more subtle information out of the sample <xref ref-type="bibr" rid="pone.0003826-Schwarzbauer1">[71]</xref>–<xref ref-type="bibr" rid="pone.0003826-vanZijl1">[73]</xref>, and parallel acquisition schemes allow the investigation of several specimens under identical or controllably varied conditions <xref ref-type="bibr" rid="pone.0003826-Katscher1">[74]</xref>–<xref ref-type="bibr" rid="pone.0003826-Purea1">[77]</xref>. Further progress can be expected from mobile MR devices <xref ref-type="bibr" rid="pone.0003826-Katscher1">[74]</xref>–<xref ref-type="bibr" rid="pone.0003826-Purea1">[77]</xref>, remote detection schemes <xref ref-type="bibr" rid="pone.0003826-Ledbetter1">[78]</xref> and, though perhaps more slowly, from approaches based on nuclei other than <sup>1</sup>H <xref ref-type="bibr" rid="pone.0003826-Bhattacharya1">[79]</xref>–<xref ref-type="bibr" rid="pone.0003826-Still1">[82]</xref>.</p>
+<p>Like any other imaging technique, MRI can produce artefacts if theoretical assumptions underlying the image acquisition or processing are not met by the experimental conditions (for brief overviews, see <xref ref-type="bibr" rid="pone.0003826-Hashemi1">[83]</xref>, <xref ref-type="bibr" rid="pone.0003826-Tsuchihashi1">[84]</xref>). For structural <italic>in vivo</italic> MR imaging, the major cause for artefacts is motion (as in <xref ref-type="fig" rid="pone-0003826-g003">Fig. 3</xref>) by or within the object of study during image acquisition (for a discussion in human musculoskeletal imaging, see <xref ref-type="bibr" rid="pone.0003826-Peh1">[85]</xref>). In a cryobiological context, this is much less of a concern but in case it is, special techniques (with their own sets of assumptions) exist to correct for some types of motion artefacts <xref ref-type="bibr" rid="pone.0003826-Lee5">[86]</xref>, <xref ref-type="bibr" rid="pone.0003826-Wu1">[87]</xref> or to quantifiy motion directly (e.g. <xref ref-type="bibr" rid="pone.0003826-Manz1">[88]</xref>, <xref ref-type="bibr" rid="pone.0003826-Nayak1">[89]</xref>). Another cause for artefacts are magnetic field inhomogeneities due to a spatially or temporally inhomogeneous magnetic susceptibility of the sample (e.g. <xref ref-type="bibr" rid="pone.0003826-Ldeke1">[90]</xref>). However, what might be considered an artefact in structural imaging may be of value in functional imaging–the most popular functional MRI technique (BOLD fMRI, cf. <xref ref-type="bibr" rid="pone.0003826-Ogawa1">[91]</xref>) is based on the oxygenation-dependent magnetic susceptibility of haemoglobin in blood that flows through the organism in a task-dependent manner (for recent review, see <xref ref-type="bibr" rid="pone.0003826-Logothetis1">[92]</xref>). It has already observed that different regions in the body of freeze-tolerant frogs freeze at different external temperatures <xref ref-type="bibr" rid="pone.0003826-Rubinsky2">[46]</xref>, and using high-resolution techniques, this kind of functional MRI approach can be extended to investigate such cryobiological processes in more detail.</p>
+<p>Safety concerns play a major role in the choice of imaging techniques for biomedical applications, and one of the reasons for the popularity of MR techniques is that they (in contrast, for instance, to Computed tomography; cf. <xref ref-type="bibr" rid="pone.0003826-Goldman1">[93]</xref>) are not known to have any side effects of medical relevance if cautionary measures (e.g. concerning pace makers and implants) are followed <xref ref-type="bibr" rid="pone.0003826-Gowland1">[94]</xref>, <xref ref-type="bibr" rid="pone.0003826-Silva1">[95]</xref>. For other organisms, however, the situation may be different, especially at higher field strengths <xref ref-type="bibr" rid="pone.0003826-Mietchen3">[96]</xref>, <xref ref-type="bibr" rid="pone.0003826-Schenck1">[97]</xref>.</p>
+<p>Since MR emphasizes different characteristics of a sample under investigation than other imaging or spectroscopic modalities do, its combination with complementary approaches–namely with optical <xref ref-type="bibr" rid="pone.0003826-Boppart1">[98]</xref>–<xref ref-type="bibr" rid="pone.0003826-Wind1">[102]</xref>, x-ray <xref ref-type="bibr" rid="pone.0003826-Ganguly1">[103]</xref> and ultrasound microscopy <xref ref-type="bibr" rid="pone.0003826-Foster1">[104]</xref>, <xref ref-type="bibr" rid="pone.0003826-Lemor1">[105]</xref>, positron emission tomography <xref ref-type="bibr" rid="pone.0003826-Catana1">[106]</xref> or chromatographic techniques <xref ref-type="bibr" rid="pone.0003826-Lacey1">[107]</xref>–harbours considerable promise, especially in light of ever more sophisticated approaches to multidimensional image processing <xref ref-type="bibr" rid="pone.0003826-Bonnet1">[108]</xref>–<xref ref-type="bibr" rid="pone.0003826-Rueden1">[110]</xref> and MR-based computational morphometry <xref ref-type="bibr" rid="pone.0003826-VanEssen1">[111]</xref>, <xref ref-type="bibr" rid="pone.0003826-Wilke1">[112]</xref>.</p>
+<p>It should be noted that the methods described here and mentioned so far are not restricted to use in animals–they can equally (or perhaps even better, due to the absence of active motion) be applied in plants (for reviews, see <xref ref-type="bibr" rid="pone.0003826-VanAs1">[44]</xref>, <xref ref-type="bibr" rid="pone.0003826-Eisenreich1">[113]</xref>) or other environments relevant to the species of interest–be they permafrost samples <xref ref-type="bibr" rid="pone.0003826-Kleinberg1">[38]</xref> or supercooled cloud droplets inhabited by bacteria <xref ref-type="bibr" rid="pone.0003826-Hindmarsh1">[39]</xref>, <xref ref-type="bibr" rid="pone.0003826-Han1">[114]</xref>, <xref ref-type="bibr" rid="pone.0003826-Sattler1">[115]</xref>.</p>
+<p>Indeed, information about the <italic>Solidago</italic> host of the <italic>Epiblema</italic> larvae in our experiments can already be derived from data sets like the one described in <xref ref-type="fig" rid="pone-0003826-g003">Fig. 3</xref> by simply changing the image contrast. In our case, since the focus of the experiments was on insect cold hardiness, the <italic>Solidago</italic> stems had been cut during insect collection but many experimental designs targeting host-parasite and other environmental interactions would also be compatible with MR experiments. Similarly, comparative analyses of taxonomically close or distant species can be performed (cf. <xref ref-type="bibr" rid="pone.0003826-Tinbergen1">[116]</xref>), opening up multiple windows for the study of evolutionary processes–even at the population level <xref ref-type="bibr" rid="pone.0003826-Purea1">[77]</xref>, <xref ref-type="bibr" rid="pone.0003826-Manz1">[88]</xref>–from a cryobiological perspective <xref ref-type="bibr" rid="pone.0003826-Sinclair1">[117]</xref>. Aquaporins, for example, have been found to be implicated in cold hardiness <xref ref-type="bibr" rid="pone.0003826-Izumi1">[118]</xref>, also in <italic>Eurosta</italic> <xref ref-type="bibr" rid="pone.0003826-Philip1">[119]</xref>, and can be successfully traced by MR <xref ref-type="bibr" rid="pone.0003826-Quigley1">[120]</xref>.</p>
+<p>Given that the physiological effects of any kind of dehydration are in many aspects similar <xref ref-type="bibr" rid="pone.0003826-Storey3">[15]</xref>, <xref ref-type="bibr" rid="pone.0003826-Danks1">[121]</xref>, the methodology described here may well be suitable to the study of similar processes at other non-freezing temperatures, e.g. biomineralisation. MR spectroscopic <xref ref-type="bibr" rid="pone.0003826-Lambert1">[122]</xref>, <xref ref-type="bibr" rid="pone.0003826-Lee6">[123]</xref> and imaging studies <xref ref-type="bibr" rid="pone.0003826-Mietchen2">[65]</xref>, <xref ref-type="bibr" rid="pone.0003826-Borah1">[124]</xref> in bone and fossils already point in this direction.</p>
+<p>Furthermore, it can be expected that neighbouring fields, like biodiversity studies, will continue to profit (perhaps increasingly so) from cryotechniques as a means of preservation, and the growing popularity of cryobanking as well as the improving quality of the preserved samples might eventually lead to cryobanks taking over museal functions for molecular, cellular and tissue samples <xref ref-type="bibr" rid="pone.0003826-Moritz1">[125]</xref>, <xref ref-type="bibr" rid="pone.0003826-Watson1">[126]</xref>. Curating and monitoring these will require non-invasive microscopic technologies of the kind presented here.</p>
+<sec id="s4a">
+<title>Conclusions</title>
+<p>Freezing and dehydration of biological specimens in response to cooling below the freezing point of water can effectively be monitored by Magnetic Resonance Microscopy down to about −70°C. Consequently, this non-invasive <italic>in vivo</italic> technique, along with the achievable spatial, temporal and spectral resolutions, provides for very interesting non-invasive methodological options to investigate cold hardiness and–by extension–dehydration, extremophiles as well as their evolutionary and ecological relationships, and to optimize cryobiotechnological procedures.</p>
+</sec></sec><sec id="s5">
+<title>Supporting Information</title>
+<supplementary-material content-type="video/x-msvideo" id="pone.0003826.s001" xlink:href="info:doi/10.1371/journal.pone.0003826.s001" position="float" xlink:type="simple"><label>Movie S1</label><caption>
+<p><sup>1</sup>H NMR images of an Epiblema larva at different temperatures. Slice series from 3D MR images, corresponding to <xref ref-type="fig" rid="pone-0003826-g003">Fig. 3</xref>, acquired at 0°C (top), −20°C, −35°C and −70°C (bottom).</p>
+<p>(16.78 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s002" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s002" position="float" xlink:type="simple"><label>Movie S2</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −20°C, using all spectral information. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −20°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s003" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s003" position="float" xlink:type="simple"><label>Movie S3</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −20°C, based on spectral information from the water resonance. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −20°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s004" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s004" position="float" xlink:type="simple"><label>Movie S4</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −20°C, based spectral information from the hydrocarbon resonances. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −20°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s005" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s005" position="float" xlink:type="simple"><label>Movie S5</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −40°C, using all spectral information. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −40°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s006" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s006" position="float" xlink:type="simple"><label>Movie S6</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −40°C, based on spectral information from the water resonance. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −40°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s007" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s007" position="float" xlink:type="simple"><label>Movie S7</label><caption>
+<p><sup>1</sup>H NMR image of an Eurosta larva at −40°C, based on spectral information from the hydrocarbon resonances. Slice series from 3D MR image, corresponding to <xref ref-type="fig" rid="pone-0003826-g004">Fig. 4</xref>, acquired at −40°C.</p>
+<p>(8.40 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s008" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s008" position="float" xlink:type="simple"><label>Movie S8</label><caption>
+<p>3D model of the water and lipid distribution in a Eurosta larva. Animation of the 3D model described in <xref ref-type="fig" rid="pone-0003826-g005">Fig. 5</xref>, based on <sup>1</sup>H NMR water and hydrocarbon images obtained at −20°C K. The water-based 3D model is depicted in semi-transparent brown and the model based on the fat signal in red. Note that single cells can be discerned.</p>
+<p>(8.83 MB AVI)</p>
+</caption></supplementary-material><supplementary-material id="pone.0003826.s009" mimetype="video/x-msvideo" xlink:href="info:doi/10.1371/journal.pone.0003826.s009" position="float" xlink:type="simple"><label>Movie S9</label><caption>
+<p>Temperature-weighted 3D model of an Epiblema larva. Animation of the 3D model described in <xref ref-type="fig" rid="pone-0003826-g006">Fig. 6</xref>, based on 1H NMR whole-spectrum images obtained at −35°C (brown) and −70°C (red).</p>
+<p>(6.58 MB AVI)</p>
+</caption></supplementary-material></sec></body>
+<back>
+<ack>
+<p>The authors wish to acknowledge valuable discussions with Stefan Hetz on physiological aspects of the study and with Markus Küppers and Christine Müller on the MR part. We also thank Janet Storey for critical reviews of earlier drafts of this manuscript, and Anthony Serianni and two anonymous reviewers for their insightful comments.</p>
+</ack>
+<ref-list>
+<title>References</title>
+<ref id="pone.0003826-Storey1"><label>1</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Storey</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Cold Hardiness and Freeze Tolerance. Functional Metabolism: Regulation and Adaptation.</article-title>             <publisher-loc>Chichester</publisher-loc>             <publisher-name>Wiley</publisher-name>          </citation></ref>
+<ref id="pone.0003826-Lee1"><label>2</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>MR</given-names></name>
+<name name-style="western"><surname>Strong-Gunderson</surname><given-names>JM</given-names></name>
+</person-group>             <year>1995</year>             <article-title>Biological control of insect pests using ice-nucleating microorganisms. Biological Ice Nucleating and Its Applications.</article-title>             <source>St. Paul: Am. Phytopathol. Soc</source>             <fpage>257</fpage>             <lpage>269</lpage>          </citation></ref>
+<ref id="pone.0003826-Mazur1"><label>3</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Mazur</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Leibo</surname><given-names>SP</given-names></name>
+<name name-style="western"><surname>Seidel</surname><given-names>GE</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>2008</year>             <article-title>Cryopreservation of the Germplasm of Animals Used in Biological and Medical Research: Importance, Impact, Status, and Future Directions.</article-title>             <source>Biol Reprod</source>             <volume>78</volume>             <fpage>2</fpage>          </citation></ref>
+<ref id="pone.0003826-Lee2"><label>4</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names></name>
+<name name-style="western"><surname>Denlinger</surname><given-names>DL</given-names></name>
+</person-group>             <year>1991</year>             <article-title>Insects at low temperature: Chapman and Hall, New York.</article-title>          </citation></ref>
+<ref id="pone.0003826-Storey2"><label>5</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+</person-group>             <year>1997</year>             <article-title>Organic Solutes in Freezing Tolerance.</article-title>             <source>Comparative Biochemistry and Physiology-Part A: Physiology</source>             <volume>117</volume>             <fpage>319</fpage>             <lpage>326</lpage>          </citation></ref>
+<ref id="pone.0003826-Duman1"><label>6</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Duman</surname><given-names>J</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Antifreeze and ice nucleator proteins in terrestrial arthropods.</article-title>             <source>Annu Rev Physiol</source>             <volume>63</volume>             <fpage>327</fpage>             <lpage>357</lpage>          </citation></ref>
+<ref id="pone.0003826-Zachariassen1"><label>7</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Zachariassen</surname><given-names>KE</given-names></name>
+<name name-style="western"><surname>Kristiansen</surname><given-names>E</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Ice Nucleation and Antinucleation in Nature.</article-title>             <source>Cryobiology</source>             <volume>41</volume>             <fpage>257</fpage>             <lpage>279</lpage>          </citation></ref>
+<ref id="pone.0003826-Collins1"><label>8</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Collins</surname><given-names>SD</given-names></name>
+<name name-style="western"><surname>Allenspach</surname><given-names>AL</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names></name>
+</person-group>             <year>1996</year>             <article-title>Comparative ultrastructure of brain, muscle and Malpighian tubule from the freezetolerant <italic>Eurosta solidaginis</italic> (Fitch) (Diptera: Tephritidae) larvae after chemical fixation and high pressure freezing.</article-title>             <source>Problems Cryobiol</source>             <volume>1</volume>             <fpage>3</fpage>             <lpage>12</lpage>          </citation></ref>
+<ref id="pone.0003826-Yi1"><label>9</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Yi</surname><given-names>SX</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Detecting freeze injury and seasonal cold-hardening of cells and tissues in the gall fly larvae, Eurosta solidaginis (Diptera: Tephritidae) using fluorescent vital dyes.</article-title>             <source>J Insect Physiol</source>             <volume>49</volume>             <fpage>999</fpage>             <lpage>1004</lpage>          </citation></ref>
+<ref id="pone.0003826-Boesch1"><label>10</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Boesch</surname><given-names>C</given-names></name>
+</person-group>             <year>1999</year>             <article-title>Molecular aspects of magnetic resonance imaging and spectroscopy.</article-title>             <source>Mol Aspects Med</source>             <volume>20</volume>             <fpage>185</fpage>             <lpage>318</lpage>          </citation></ref>
+<ref id="pone.0003826-Burt1"><label>11</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Burt</surname><given-names>CT</given-names></name>
+</person-group>             <year>1982</year>             <article-title>NMR of live systems.</article-title>             <source>Life Sci</source>             <volume>31</volume>             <fpage>2793</fpage>             <lpage>2808</lpage>          </citation></ref>
+<ref id="pone.0003826-Blmich1"><label>12</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="editor">
+<name name-style="western"><surname>Blümich</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Kuhn</surname><given-names>W</given-names></name>
+</person-group>             <year>1992</year>             <article-title>Magnetic resonance microscopy: methods and applications in materials science, agriculture and biomedicine.</article-title>             <publisher-loc>Weinheim, Basel, Cambridge, New York</publisher-loc>             <publisher-name>VCH</publisher-name>          </citation></ref>
+<ref id="pone.0003826-Callaghan1"><label>13</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Callaghan</surname><given-names>PT</given-names></name>
+</person-group>             <year>1991</year>             <article-title>Principles of Nuclear Magnetic Resonance Microscopy.</article-title>             <publisher-loc>Clarendon</publisher-loc>             <publisher-name>Oxford University Press</publisher-name>             <fpage>492</fpage>          </citation></ref>
+<ref id="pone.0003826-Wthrich1"><label>14</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wüthrich</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Billeter</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Güntert</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Luginbühl</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Riek</surname><given-names>R</given-names></name>
+<etal/></person-group>             <year>1996</year>             <article-title>NMR studies of the hydration of biological macromolecules.</article-title>             <source>Faraday Disc</source>             <volume>103</volume>             <fpage>245</fpage>             <lpage>253</lpage>          </citation></ref>
+<ref id="pone.0003826-Storey3"><label>15</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>JM</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Metabolic depression in animals: transcriptional and translational control.</article-title>             <source>Biol Rev</source>             <volume>79</volume>             <fpage>207</fpage>             <lpage>233</lpage>          </citation></ref>
+<ref id="pone.0003826-Rickards1"><label>16</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Rickards</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kelleher</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+</person-group>             <year>1987</year>             <article-title>Strategies of freeze avoidance in larvae of the goldenrod gall moth, <italic>Epiblema scudderiana</italic>: Winter profiles of a natural population.</article-title>             <source>J Insect Physiol</source>             <volume>33</volume>             <fpage>443</fpage>             <lpage>450</lpage>          </citation></ref>
+<ref id="pone.0003826-Clarke1"><label>17</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Clarke</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Buckley</surname><given-names>SL</given-names></name>
+<name name-style="western"><surname>Lindner</surname><given-names>N</given-names></name>
+</person-group>             <year>2002</year>             <article-title>Ice Structuring Proteins-A New Name for Antifreeze Proteins.</article-title>             <source>Cryoletters</source>             <volume>23</volume>             <fpage>89</fpage>             <lpage>92</lpage>          </citation></ref>
+<ref id="pone.0003826-Storey4"><label>18</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>JM</given-names></name>
+</person-group>             <year>1992</year>             <article-title>Biochemical adaptations for winter survival in insects.</article-title>             <source>Adv Low Temp Biol</source>             <volume>1</volume>             <fpage>101</fpage>             <lpage>140</lpage>          </citation></ref>
+<ref id="pone.0003826-Abragam1"><label>19</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Abragam</surname><given-names>A</given-names></name>
+</person-group>             <year>1961</year>             <article-title>The Principles of Nuclear Magnetism.</article-title>             <publisher-loc>Oxford</publisher-loc>             <publisher-name>Clarendon</publisher-name>          </citation></ref>
+<ref id="pone.0003826-Slichter1"><label>20</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Slichter</surname><given-names>CP</given-names></name>
+</person-group>             <year>1978</year>             <article-title>Principles of Magnetic Resonance.</article-title>             <publisher-loc>Berlin, Heidelberg, New York</publisher-loc>             <publisher-name>Springer-Verlag</publisher-name>          </citation></ref>
+<ref id="pone.0003826-Bloembergen1"><label>21</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bloembergen</surname><given-names>N</given-names></name>
+<name name-style="western"><surname>Purcell</surname><given-names>EM</given-names></name>
+<name name-style="western"><surname>Pound</surname><given-names>RV</given-names></name>
+</person-group>             <year>1948</year>             <article-title>Relaxation Effects in Nuclear Magnetic Resonance Absorption.</article-title>             <source>Phys Rev</source>             <volume>73</volume>             <fpage>679</fpage>             <lpage>712</lpage>          </citation></ref>
+<ref id="pone.0003826-Tyszka1"><label>22</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Tyszka</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Fraser</surname><given-names>SE</given-names></name>
+<name name-style="western"><surname>Jacobs</surname><given-names>RE</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Magnetic resonance microscopy: recent advances and applications.</article-title>             <source>Curr Opin Biotechnol</source>             <volume>16</volume>             <fpage>93</fpage>             <lpage>99</lpage>          </citation></ref>
+<ref id="pone.0003826-Bottomley1"><label>23</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bottomley</surname><given-names>PA</given-names></name>
+<name name-style="western"><surname>Foster</surname><given-names>TH</given-names></name>
+<name name-style="western"><surname>Leue</surname><given-names>TW</given-names></name>
+</person-group>             <year>1984</year>             <article-title>In vivo Nuclear Magnetic Resonance Chemical Shift Imaging by Selective Irradiation.</article-title>             <source>Proc Natl Acad Sci USA</source>             <volume>81</volume>             <fpage>6856</fpage>             <lpage>6860</lpage>          </citation></ref>
+<ref id="pone.0003826-Brateman1"><label>24</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Brateman</surname><given-names>L</given-names></name>
+</person-group>             <year>1986</year>             <article-title>Chemical shift imaging: a review.</article-title>             <source>Am J Roentgenol</source>             <volume>146</volume>             <fpage>971</fpage>             <lpage>980</lpage>          </citation></ref>
+<ref id="pone.0003826-Richardson1"><label>25</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Richardson</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Keller</surname><given-names>EE</given-names></name>
+</person-group>             <year>1966</year>             <article-title>The brine content of sea ice measured with a nuclear magnetic resonance spectrometer.</article-title>             <source>J Glaciol</source>             <volume>6</volume>             <fpage>89</fpage>             <lpage>100</lpage>          </citation></ref>
+<ref id="pone.0003826-Storey5"><label>26</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+<name name-style="western"><surname>Miceli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Butler</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>ICP</given-names></name>
+<name name-style="western"><surname>Deslauriers</surname><given-names>R</given-names></name>
+</person-group>             <year>1984</year>             <article-title><sup>31</sup>P NMR studies of the freeze-tolerant larvae of the gall fly, Eurosta solidaginis.</article-title>             <source>Eur J Biochem</source>             <volume>142</volume>             <fpage>591</fpage>             <lpage>595</lpage>          </citation></ref>
+<ref id="pone.0003826-Buchanan1"><label>27</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Buchanan</surname><given-names>GW</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+</person-group>             <year>1983</year>             <article-title><italic>in vivo</italic> detection of cryoprotectants and lipids in overwintering larvae using carbon-13 nuclear magnetic resonance.</article-title>             <source>Can J Biochem Cell Biol</source>             <volume>61</volume>             <fpage>1260</fpage>             <lpage>1264</lpage>          </citation></ref>
+<ref id="pone.0003826-Dabos1"><label>28</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Dabos</surname><given-names>KJ</given-names></name>
+<name name-style="western"><surname>Parkinson</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Hewage</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Nelson</surname><given-names>LJ</given-names></name>
+<name name-style="western"><surname>Sadler</surname><given-names>IH</given-names></name>
+<etal/></person-group>             <year>2002</year>             <article-title><sup>1</sup>H NMR spectroscopy as a tool to evaluate key metabolic functions of primary porcine hepatocytes after cryopreservation.</article-title>             <source>NMR Biomed</source>             <volume>15</volume>             <fpage>241</fpage>             <lpage>250</lpage>          </citation></ref>
+<ref id="pone.0003826-George1"><label>29</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>George</surname><given-names>MF</given-names></name>
+<name name-style="western"><surname>Burke</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Weiser</surname><given-names>CJ</given-names></name>
+</person-group>             <year>1974</year>             <article-title>Supercooling in Overwintering Azalea Flower Buds.</article-title>             <source>Plant Physiol</source>             <volume>54</volume>             <fpage>29</fpage>             <lpage>35</lpage>          </citation></ref>
+<ref id="pone.0003826-Volke1"><label>30</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Volke</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pampel</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Hänsler</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Ullmann</surname><given-names>G</given-names></name>
+</person-group>             <year>1996</year>             <article-title>Proton MAS-NMR of a protein in a frozen aqueous solution.</article-title>             <source>Chem Phys Lett</source>             <volume>262</volume>             <fpage>374</fpage>             <lpage>378</lpage>          </citation></ref>
+<ref id="pone.0003826-Mariette1"><label>31</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Mariette</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Lucas</surname><given-names>T</given-names></name>
+</person-group>             <year>2005</year>             <article-title>NMR Signal Analysis To Attribute the Components to the Solid/Liquid Phases Present in Mixes and Ice Creams.</article-title>             <source>J Agric Food Chem</source>             <volume>53</volume>             <fpage>1317</fpage>             <lpage>1327</lpage>          </citation></ref>
+<ref id="pone.0003826-Edelstein1"><label>32</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Edelstein</surname><given-names>WA</given-names></name>
+<name name-style="western"><surname>Schulson</surname><given-names>EM</given-names></name>
+</person-group>             <year>1991</year>             <article-title>NMR imaging of salt-water ice.</article-title>             <source>J Glaciol</source>             <volume>37</volume>             <fpage>177</fpage>             <lpage>180</lpage>          </citation></ref>
+<ref id="pone.0003826-Callaghan2"><label>33</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Callaghan</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Eccles</surname><given-names>C</given-names></name>
+</person-group>             <year>1996</year>             <article-title>NMR Studies on Antarctic Sea Ice.</article-title>             <source>Bull Magn Reson</source>             <volume>18</volume>             <fpage>62</fpage>             <lpage>64</lpage>          </citation></ref>
+<ref id="pone.0003826-Callaghan3"><label>34</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Callaghan</surname><given-names>PT</given-names></name>
+<name name-style="western"><surname>Eccles</surname><given-names>CD</given-names></name>
+<name name-style="western"><surname>Seymour</surname><given-names>JD</given-names></name>
+</person-group>             <year>1997</year>             <article-title>An earth's field nuclear magnetic resonance apparatus suitable for pulsed gradient spin echo measurements of self-diffusion under Antarctic conditions.</article-title>             <source>Rev Sci Instr</source>             <volume>68</volume>             <fpage>4263</fpage>             <lpage>4270</lpage>          </citation></ref>
+<ref id="pone.0003826-Melnichenko1"><label>35</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Melnichenko</surname><given-names>NA</given-names></name>
+<name name-style="western"><surname>Mikhaylov</surname><given-names>VI</given-names></name>
+<name name-style="western"><surname>Chizik</surname><given-names>VI</given-names></name>
+</person-group>             <year>1979</year>             <article-title>Izuchenie temperaturnoy zavisimosti otnositel'nogo soderzhaniya zhidkoy fazy v zamorozhennoy morskoy vode impul'snym metodom YaMR.</article-title>             <source>Okeanologiya</source>             <volume>19</volume>             <fpage>535</fpage>             <lpage>537</lpage>          </citation></ref>
+<ref id="pone.0003826-Eicken1"><label>36</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Eicken</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Bock</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Wittig</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Miller</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Poertner</surname><given-names>H-O</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Magnetic resonance imaging of sea-ice pore fluids: methods and thermal evolution of pore microstructure.</article-title>             <source>Cold Regions Sci Technol</source>             <volume>31</volume>             <fpage>207</fpage>             <lpage>225</lpage>          </citation></ref>
+<ref id="pone.0003826-Menzel1"><label>37</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Menzel</surname><given-names>MI</given-names></name>
+<name name-style="western"><surname>Han</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Stapf</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Blümich</surname><given-names>B</given-names></name>
+</person-group>             <year>2000</year>             <article-title>NMR characterization of the pore structure and anisotropic self-diffusion in salt water ice.</article-title>             <source>J Magn Reson</source>             <volume>143</volume>             <fpage>376</fpage>             <lpage>381</lpage>          </citation></ref>
+<ref id="pone.0003826-Kleinberg1"><label>38</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Kleinberg</surname><given-names>RL</given-names></name>
+<name name-style="western"><surname>Griffin</surname><given-names>DD</given-names></name>
+</person-group>             <year>2005</year>             <article-title>NMR measurements of permafrost: unfrozen water assay, pore-scale distribution of ice, and hydraulic permeability of sediments.</article-title>             <source>Cold Regions Sci Technol</source>             <volume>42</volume>             <fpage>63</fpage>             <lpage>77</lpage>          </citation></ref>
+<ref id="pone.0003826-Hindmarsh1"><label>39</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hindmarsh</surname><given-names>JP</given-names></name>
+<name name-style="western"><surname>Buckley</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Russell</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Chen</surname><given-names>XD</given-names></name>
+<name name-style="western"><surname>Gladden</surname><given-names>LF</given-names></name>
+<etal/></person-group>             <year>2004</year>             <article-title>Imaging droplet freezing using MRI.</article-title>             <source>Chem Engin Sci</source>             <volume>59</volume>             <fpage>2113</fpage>             <lpage>2122</lpage>          </citation></ref>
+<ref id="pone.0003826-Daniel1"><label>40</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Daniel</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Butts</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Block</surname><given-names>WF</given-names></name>
+</person-group>             <year>1999</year>             <article-title>Magnetic Resonance Imaging of Frozen Tissues: Temperature-Dependent MR Signal Characteristics and Relevance for MR Monitoring of Cryosurgery.</article-title>             <source>Magn Reson Med</source>             <volume>41</volume>             <fpage>627</fpage>             <lpage>630</lpage>          </citation></ref>
+<ref id="pone.0003826-Samset1"><label>41</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Samset</surname><given-names>E</given-names></name>
+<name name-style="western"><surname>Mala</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Aurdal</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Balasingham</surname><given-names>I</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Intra-operative visualisation of 3D temperature maps and 3D navigation during tissue cryoablation.</article-title>             <source>Comput Med Imaging Graph</source>             <volume>29</volume>             <fpage>499</fpage>             <lpage>505</lpage>          </citation></ref>
+<ref id="pone.0003826-Kerr1"><label>42</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Kerr</surname><given-names>WL</given-names></name>
+<name name-style="western"><surname>Kauten</surname><given-names>RJ</given-names></name>
+<name name-style="western"><surname>McCarthy</surname><given-names>MJ</given-names></name>
+<name name-style="western"><surname>Reid</surname><given-names>DS</given-names></name>
+</person-group>             <year>1998</year>             <article-title>Monitoring the Formation of Ice During Food Freezing by Magnetic Resonance Imaging.</article-title>             <source>Lebensm-Wiss u-Technol</source>             <volume>31</volume>             <fpage>215</fpage>             <lpage>220</lpage>          </citation></ref>
+<ref id="pone.0003826-Price1"><label>43</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Price</surname><given-names>WS</given-names></name>
+<name name-style="western"><surname>Ide</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Arata</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Ishikawa</surname><given-names>M</given-names></name>
+</person-group>             <year>1997</year>             <article-title>Visualisation of Freezing Behaviours in Flower Bud Tissues of Cold-hardy <italic>Rhododendron japonicum</italic> by Nuclear Magnetic Resonance Micro-Imaging.</article-title>             <source>Aust J Plant Physiol</source>             <volume>24</volume>             <fpage>599</fpage>             <lpage>605</lpage>          </citation></ref>
+<ref id="pone.0003826-VanAs1"><label>44</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Van As</surname><given-names>H</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Intact plant MRI for the study of cell water relations, membrane permeability, cell-to-cell and long distance water transport.</article-title>             <source>J Exp Bot</source>             <volume>58</volume>             <fpage>743</fpage>             <lpage>756</lpage>          </citation></ref>
+<ref id="pone.0003826-Rubinsky1"><label>45</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Rubinsky</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>J-S</given-names></name>
+<name name-style="western"><surname>Storey</surname><given-names>KB</given-names></name>
+</person-group>             <year>1994</year>             <article-title>Freeze tolerance in turtles: visual analysis by microscopy and magnetic resonance imaging.</article-title>             <source>Am J Physiol</source>             <volume>267</volume>             <fpage>R1078</fpage>             <lpage>R1088</lpage>          </citation></ref>
+<ref id="pone.0003826-Rubinsky2"><label>46</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Rubinsky</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Wong</surname><given-names>STS</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>J-S</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Roos</surname><given-names>M</given-names></name>
+<etal/></person-group>             <year>1994</year>             <article-title><sup>1</sup>H magnetic resonance imaging of freezing and thawing in freeze-tolerant frogs.</article-title>             <source>Am J Physiol</source>             <volume>266</volume>             <fpage>R1771</fpage>             <lpage>R1777</lpage>          </citation></ref>
+<ref id="pone.0003826-Goodman1"><label>47</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Goodman</surname><given-names>BA</given-names></name>
+<name name-style="western"><surname>Gordon</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Chudek</surname><given-names>JA</given-names></name>
+<name name-style="western"><surname>Hunter</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Woodford</surname><given-names>JAT</given-names></name>
+</person-group>             <year>1995</year>             <article-title>Nuclear magnetic resonance microscopy as a non-invasive tool to study the development of lepidopteran pupae.</article-title>             <source>J Insect Physiol</source>             <volume>41</volume>             <fpage>419</fpage>             <lpage>424</lpage>          </citation></ref>
+<ref id="pone.0003826-Hart1"><label>48</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hart</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Bowtell</surname><given-names>RW</given-names></name>
+<name name-style="western"><surname>Köckenberger</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Wenseleers</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Ratnieks</surname><given-names>FLW</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Magnetic resonance imaging in entomology: a critical review.</article-title>             <source>J Insect Sci</source>             <volume>3</volume>             <fpage>1</fpage>             <lpage>9</lpage>          </citation></ref>
+<ref id="pone.0003826-Lee3"><label>49</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Hong</surname><given-names>KS</given-names></name>
+<etal/></person-group>             <year>2006</year>             <article-title>Subcellular In Vivo <sup>1</sup>H MR Spectroscopy of <italic>Xenopus laevis</italic> Oocytes.</article-title>             <source>Biophys J</source>             <volume>90</volume>             <fpage>1797</fpage>             <lpage>1803</lpage>          </citation></ref>
+<ref id="pone.0003826-Lee4"><label>50</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>SC</given-names></name>
+<name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Cho</surname><given-names>JH</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>YS</given-names></name>
+<name name-style="western"><surname>Kim</surname><given-names>C</given-names></name>
+<etal/></person-group>             <year>2007</year>             <article-title>In vivo magnetic resonance microscopy of differentiation in <italic>Xenopus laevis</italic> embryos from the first cleavage onwards.</article-title>             <source>Differentiation</source>             <volume>75</volume>             <fpage>84</fpage>             <lpage>92</lpage>          </citation></ref>
+<ref id="pone.0003826-Zimmermann1"><label>51</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Zimmermann</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Katsen</surname><given-names>AD</given-names></name>
+<name name-style="western"><surname>Ihmig</surname><given-names>FR</given-names></name>
+<name name-style="western"><surname>Durst</surname><given-names>CHP</given-names></name>
+<name name-style="western"><surname>Shirley</surname><given-names>SG</given-names></name>
+<etal/></person-group>             <year>2004</year>             <article-title>First steps of an interdisciplinary approach towards miniaturised cryopreservation for cellular nanobiotechnology.</article-title>             <source>IEEE Proc Nanobiotechnol</source>             <volume>151</volume>             <fpage>134</fpage>             <lpage>138</lpage>          </citation></ref>
+<ref id="pone.0003826-Raiford1"><label>52</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Raiford</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Fisk</surname><given-names>CL</given-names></name>
+<name name-style="western"><surname>Becker</surname><given-names>ED</given-names></name>
+</person-group>             <year>1979</year>             <article-title>Calibration of methanol and ethylene glycol nuclear magnetic resonance thermometers.</article-title>             <source>Analyt Chem</source>             <volume>51</volume>             <fpage>2050</fpage>             <lpage>2051</lpage>          </citation></ref>
+<ref id="pone.0003826-Volke2"><label>53</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Volke</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Pampel</surname><given-names>A</given-names></name>
+</person-group>             <year>1995</year>             <article-title>Membrane hydration and structure on a subnanometer scale as seen by high resolution solid state nuclear magnetic resonance: POPC and POPC/C12EO4 model membranes.</article-title>             <source>Biophys J</source>             <volume>68</volume>             <fpage>1960</fpage>          </citation></ref>
+<ref id="pone.0003826-Hsieh1"><label>54</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hsieh</surname><given-names>CH</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>WG</given-names></name>
+</person-group>             <year>1996</year>             <article-title>Structure and dynamics of primary hydration shell of phosphatidylcholine bilayers at subzero temperatures.</article-title>             <source>Biophys J</source>             <volume>71</volume>             <fpage>3278</fpage>             <lpage>3287</lpage>          </citation></ref>
+<ref id="pone.0003826-Koop1"><label>55</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Koop</surname><given-names>T</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Homogeneous Ice Nucleation in Water and Aqueous Solutions.</article-title>             <source>Z Phys Chem</source>             <volume>218</volume>             <fpage>1231</fpage>             <lpage>1258</lpage>          </citation></ref>
+<ref id="pone.0003826-Aguayo1"><label>56</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Aguayo</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Blackband</surname><given-names>SJ</given-names></name>
+<name name-style="western"><surname>Schoeniger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Mattingly</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Hinterman</surname><given-names>M</given-names></name>
+</person-group>             <year>1986</year>             <article-title>Nuclear magnetic resonance imaging of a single cell.</article-title>             <source>Nature</source>             <volume>322</volume>             <fpage>190</fpage>             <lpage>191</lpage>          </citation></ref>
+<ref id="pone.0003826-Ciobanu1"><label>57</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ciobanu</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Pennington</surname><given-names>CH</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Magnetic resonance imaging of biological cells.</article-title>             <source>Prog Nucl Magn Reson Spectrosc</source>             <volume>42</volume>             <fpage>69</fpage>             <lpage>93</lpage>          </citation></ref>
+<ref id="pone.0003826-Wharton1"><label>58</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wharton</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Ferns</surname><given-names>DJ</given-names></name>
+</person-group>             <year>1995</year>             <article-title>Survival of intracellular freezing by the Antarctic nematode Panagrolaimus davidi.</article-title>             <source>Journal of Experimental Biology</source>             <volume>198</volume>             <fpage>1381</fpage>             <lpage>1387</lpage>          </citation></ref>
+<ref id="pone.0003826-Davis1"><label>59</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Davis</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>2001</year>             <article-title>Intracellular freezing, viability, and composition of fat body cells from freeze-intolerant larvae of Sarcophaga crassipalpis.</article-title>             <source>Arch Insect Biochem Physiol</source>             <volume>48</volume>             <fpage>199</fpage>             <lpage>205</lpage>          </citation></ref>
+<ref id="pone.0003826-Salt1"><label>60</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Salt</surname><given-names>R</given-names></name>
+</person-group>             <year>1959</year>             <article-title>Survival of frozen fat body cells in an insect.</article-title>             <source>Nature</source>             <volume>184</volume>             <fpage>1426</fpage>          </citation></ref>
+<ref id="pone.0003826-VanZijl1"><label>61</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Van Zijl</surname><given-names>PC</given-names></name>
+<name name-style="western"><surname>Moonen</surname><given-names>CT</given-names></name>
+<name name-style="western"><surname>Faustino</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Pekar</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Kaplan</surname><given-names>O</given-names></name>
+<etal/></person-group>             <year>1991</year>             <article-title>Complete separation of intracellular and extracellular information in NMR spectra of perfused cells by diffusion-weighted spectroscopy.</article-title>             <source>Proc Natl Acad Sci US A</source>             <volume>88</volume>             <fpage>3228</fpage>             <lpage>3232</lpage>          </citation></ref>
+<ref id="pone.0003826-Borgia1"><label>62</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Borgia</surname><given-names>GC</given-names></name>
+<name name-style="western"><surname>Camaiti</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Cerri</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Fantazzini</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Piacenti</surname><given-names>F</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Study of water penetration in rock materials by Nuclear Magnetic Resonance Tomography: hydrophobic treatment effects.</article-title>             <source>J Cult Heritage</source>             <volume>1</volume>             <fpage>127</fpage>             <lpage>132</lpage>          </citation></ref>
+<ref id="pone.0003826-deSwiet1"><label>63</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>de Swiet</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Tomaselli</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Hürlimann</surname><given-names>MD</given-names></name>
+<name name-style="western"><surname>Pines</surname><given-names>A</given-names></name>
+</person-group>             <year>1998</year>             <article-title>In Situ NMR Analysis of Fluids Contained in Sedimentary Rock.</article-title>             <source>J Magn Reson</source>             <volume>133</volume>             <fpage>385</fpage>             <lpage>387</lpage>          </citation></ref>
+<ref id="pone.0003826-Mietchen1"><label>64</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Aberhan</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Manz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Hampe</surname><given-names>O</given-names></name>
+<name name-style="western"><surname>Mohr</surname><given-names>B</given-names></name>
+<etal/></person-group>             <year>2008</year>             <article-title>Three-dimensional Magnetic Resonance Imaging of fossils across taxa.</article-title>             <source>Biogeosciences</source>             <volume>5</volume>             <fpage>25</fpage>             <lpage>41</lpage>          </citation></ref>
+<ref id="pone.0003826-Mietchen2"><label>65</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Keupp</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Manz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Volke</surname><given-names>F</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Non-invasive diagnostics in fossils-Magnetic Resonance Imaging of pathological belemnites.</article-title>             <source>Biogeosciences</source>             <volume>2</volume>             <fpage>133</fpage>             <lpage>140</lpage>          </citation></ref>
+<ref id="pone.0003826-Mller1"><label>66</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Müller</surname><given-names>WEG</given-names></name>
+<name name-style="western"><surname>Kaluzhnaya</surname><given-names>OV</given-names></name>
+<name name-style="western"><surname>Belikov</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Rothenberger</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Schröder</surname><given-names>HC</given-names></name>
+<etal/></person-group>             <year>2006</year>             <article-title>Magnetic Resonance Imaging of the siliceous skeleton of the demosponge <italic>Lubomirskia baicalensis</italic>.</article-title>             <source>J Struct Biol</source>             <volume>153</volume>             <fpage>31</fpage>             <lpage>41</lpage>          </citation></ref>
+<ref id="pone.0003826-Schneider1"><label>67</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Schneider</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Manz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Westhoff</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Mimietz</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Szimtenings</surname><given-names>M</given-names></name>
+<etal/></person-group>             <year>2003</year>             <article-title>The impact of lipid distribution, composition and mobility on xylem water refilling of the resurrection plant <italic>Myrothamnus flabellifolia</italic>.</article-title>             <source>New Phytol</source>             <volume>159</volume>             <fpage>487</fpage>             <lpage>505</lpage>          </citation></ref>
+<ref id="pone.0003826-Glover1"><label>68</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Glover</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Mansfield</surname><given-names>P</given-names></name>
+</person-group>             <year>2002</year>             <article-title>Limits to magnetic resonance microscopy.</article-title>             <source>Rep Prog Phys</source>             <volume>65</volume>             <fpage>1489</fpage>             <lpage>1511</lpage>          </citation></ref>
+<ref id="pone.0003826-Rovnyak1"><label>69</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Rovnyak</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Hoch</surname><given-names>JC</given-names></name>
+<name name-style="western"><surname>Stern</surname><given-names>AS</given-names></name>
+<name name-style="western"><surname>Wagner</surname><given-names>G</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Resolution and sensitivity of high field nuclear magnetic resonance spectroscopy.</article-title>             <source>J Biomol NMR</source>             <volume>30</volume>             <fpage>1</fpage>             <lpage>10</lpage>          </citation></ref>
+<ref id="pone.0003826-Darrasse1"><label>70</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Darrasse</surname><given-names>L</given-names></name>
+<name name-style="western"><surname>Ginefri</surname><given-names>J-C</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Perspectives with cryogenic RF probes in biomedical MRI.</article-title>             <source>Biochimie</source>             <volume>85</volume>             <fpage>915</fpage>             <lpage>937</lpage>          </citation></ref>
+<ref id="pone.0003826-Schwarzbauer1"><label>71</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Schwarzbauer</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Davis</surname><given-names>MH</given-names></name>
+<name name-style="western"><surname>Rodd</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Johnsrude</surname><given-names>I</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Interleaved silent steady state (ISSS) imaging: A new sparse imaging method applied to auditory fMRI.</article-title>             <source>Neuroimage</source>             <volume>29</volume>             <fpage>774</fpage>             <lpage>782</lpage>          </citation></ref>
+<ref id="pone.0003826-Tuch1"><label>72</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Tuch</surname><given-names>DS</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Q-ball imaging.</article-title>             <source>Magn Reson Med</source>             <volume>52</volume>             <fpage>1358</fpage>             <lpage>1372</lpage>          </citation></ref>
+<ref id="pone.0003826-vanZijl1"><label>73</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>van Zijl</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jones</surname><given-names>CK</given-names></name>
+<name name-style="western"><surname>Ren</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Malloy</surname><given-names>CR</given-names></name>
+<name name-style="western"><surname>Sherry</surname><given-names>AD</given-names></name>
+</person-group>             <year>2007</year>             <article-title>MRI detection of glycogen in vivo by using chemical exchange saturation transfer imaging (glycoCEST).</article-title>             <source>Proc Natl Acad Sci USA</source>             <volume>104</volume>             <fpage>4359</fpage>          </citation></ref>
+<ref id="pone.0003826-Katscher1"><label>74</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Katscher</surname><given-names>U</given-names></name>
+<name name-style="western"><surname>Bornert</surname><given-names>P</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Parallel RF transmission in MRI.</article-title>             <source>NMR Biomed</source>             <volume>19</volume>             <fpage>393</fpage>             <lpage>400</lpage>          </citation></ref>
+<ref id="pone.0003826-Larkman1"><label>75</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Larkman</surname><given-names>DJ</given-names></name>
+<name name-style="western"><surname>Nunes</surname><given-names>RG</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Parallel magnetic resonance imaging.</article-title>             <source>Phys Med Biol</source>             <volume>52</volume>             <fpage>R15</fpage>             <lpage>R55</lpage>          </citation></ref>
+<ref id="pone.0003826-Lazovic1"><label>76</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lazovic</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Stojkovic</surname><given-names>DS</given-names></name>
+<name name-style="western"><surname>Collins</surname><given-names>CM</given-names></name>
+<name name-style="western"><surname>Yang</surname><given-names>QX</given-names></name>
+<name name-style="western"><surname>Vaughan</surname><given-names>JT</given-names></name>
+<etal/></person-group>             <year>2005</year>             <article-title>Hexagonal Zero Mode TEM coil: a single-channel coil design for imaging multiple small animals.</article-title>             <source>Magn Reson Med</source>             <volume>53</volume>             <fpage>1150</fpage>             <lpage>1157</lpage>          </citation></ref>
+<ref id="pone.0003826-Purea1"><label>77</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Purea</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Neuberger</surname><given-names>T</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>AG</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Simultaneous NMR Microimaging of Multiple Single-Cell Samples.</article-title>             <source>Conc Magn Reson B</source>             <volume>22</volume>             <fpage>7</fpage>             <lpage>14</lpage>          </citation></ref>
+<ref id="pone.0003826-Ledbetter1"><label>78</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ledbetter</surname><given-names>MP</given-names></name>
+<name name-style="western"><surname>Savukov</surname><given-names>IM</given-names></name>
+<name name-style="western"><surname>Budker</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Shah</surname><given-names>V</given-names></name>
+<name name-style="western"><surname>Knappe</surname><given-names>S</given-names></name>
+<etal/></person-group>             <year>2008</year>             <article-title>Zero-field remote detection of NMR with a microfabricated atomic magnetometer.</article-title>             <source>Proc Natl Acad Sci USA</source>             <volume>105</volume>             <fpage>2286</fpage>          </citation></ref>
+<ref id="pone.0003826-Bhattacharya1"><label>79</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bhattacharya</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Harris</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Lin</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Mansson</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Norton</surname><given-names>VA</given-names></name>
+<etal/></person-group>             <year>2005</year>             <article-title>Ultra-fast three dimensional imaging of hyperpolarized 13C in vivo.</article-title>             <source>MAGMA</source>             <volume>18</volume>             <fpage>245</fpage>             <lpage>256</lpage>          </citation></ref>
+<ref id="pone.0003826-Koptyug1"><label>80</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Koptyug</surname><given-names>IV</given-names></name>
+<name name-style="western"><surname>Khomichev</surname><given-names>AV</given-names></name>
+<name name-style="western"><surname>Lysova</surname><given-names>AA</given-names></name>
+<name name-style="western"><surname>Sagdeev</surname><given-names>RZ</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Multinuclear MRI of Solids: from Structure to Transport.</article-title>             <source>Appl Magn Reson</source>             <volume>32</volume>             <fpage>321</fpage>             <lpage>331</lpage>          </citation></ref>
+<ref id="pone.0003826-Ouwerkerk1"><label>81</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ouwerkerk</surname><given-names>R</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Sodium Magnetic Resonance Imaging: From Research to Clinical Use.</article-title>             <source>J Am Coll Radiol</source>             <volume>4</volume>             <fpage>739</fpage>             <lpage>741</lpage>          </citation></ref>
+<ref id="pone.0003826-Still1"><label>82</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Still</surname><given-names>BM</given-names></name>
+<name name-style="western"><surname>Kumar</surname><given-names>PGA</given-names></name>
+<name name-style="western"><surname>Aldrich-Wright</surname><given-names>JR</given-names></name>
+<name name-style="western"><surname>Price</surname><given-names>WS</given-names></name>
+</person-group>             <year>2007</year>             <article-title>195 Pt NMR-theory and application.</article-title>             <source>Chem Soc Rev</source>             <volume>36</volume>             <fpage>665</fpage>             <lpage>686</lpage>          </citation></ref>
+<ref id="pone.0003826-Hashemi1"><label>83</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Hashemi</surname><given-names>RH</given-names></name>
+<name name-style="western"><surname>William</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Bradley</surname><given-names>WG</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>1997</year>             <article-title>Artifacts in MRI. MRI: The Basics.</article-title>             <publisher-loc>Baltimore</publisher-loc>             <publisher-name>Lippincott, Williams &amp; Wilkins</publisher-name>             <fpage>175</fpage>             <lpage>204</lpage>          </citation></ref>
+<ref id="pone.0003826-Tsuchihashi1"><label>84</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Tsuchihashi</surname><given-names>T</given-names></name>
+</person-group>             <year>2003</year>             <article-title>MRI no Artifact.</article-title>             <source>Nippon Hoshasen Gijutsu Gakkai Zasshi</source>             <volume>59</volume>             <fpage>1370</fpage>             <lpage>1377</lpage>          </citation></ref>
+<ref id="pone.0003826-Peh1"><label>85</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Peh</surname><given-names>WCG</given-names></name>
+<name name-style="western"><surname>Chan</surname><given-names>JHM</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Artifacts in musculoskeletal magnetic resonance imaging: identification and correction.</article-title>             <source>Skelet Radiol</source>             <volume>30</volume>             <fpage>179</fpage>             <lpage>191</lpage>          </citation></ref>
+<ref id="pone.0003826-Lee5"><label>86</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>CC</given-names></name>
+<name name-style="western"><surname>Jack</surname><given-names>CR</given-names><suffix>Jr</suffix></name>
+<name name-style="western"><surname>Grimm</surname><given-names>RC</given-names></name>
+<name name-style="western"><surname>Rossman</surname><given-names>PJ</given-names></name>
+<name name-style="western"><surname>Felmlee</surname><given-names>JP</given-names></name>
+<etal/></person-group>             <year>1996</year>             <article-title>Real-time adaptive motion correction in functional MRI.</article-title>             <source>Magn Reson Med</source>             <volume>36</volume>             <fpage>436</fpage>             <lpage>444</lpage>          </citation></ref>
+<ref id="pone.0003826-Wu1"><label>87</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wu</surname><given-names>DH</given-names></name>
+<name name-style="western"><surname>Lewin</surname><given-names>JS</given-names></name>
+<name name-style="western"><surname>Duerk</surname><given-names>JL</given-names></name>
+</person-group>             <year>1997</year>             <article-title>Inadequacy of motion correction algorithms in functional MRI: role of susceptibility-induced artifacts.</article-title>             <source>J Magn Reson Imaging</source>             <volume>7</volume>             <fpage>365</fpage>             <lpage>370</lpage>          </citation></ref>
+<ref id="pone.0003826-Manz1"><label>88</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Manz</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Volke</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Goll</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Horn</surname><given-names>H</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Measuring local flow velocities and biofilm structure in biofilm systems with Magnetic Resonance Imaging (MRI).</article-title>             <source>Biotechnol Bioengin</source>             <volume>84</volume>             <fpage>424</fpage>             <lpage>432</lpage>          </citation></ref>
+<ref id="pone.0003826-Nayak1"><label>89</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Nayak</surname><given-names>KS</given-names></name>
+<name name-style="western"><surname>Pauly</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Kerr</surname><given-names>AB</given-names></name>
+<name name-style="western"><surname>Hu</surname><given-names>BS</given-names></name>
+<name name-style="western"><surname>Nishimura</surname><given-names>DG</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Real-time color flow MRI.</article-title>             <source>Magn Reson Med</source>             <volume>43</volume>             <fpage>251</fpage>             <lpage>258</lpage>          </citation></ref>
+<ref id="pone.0003826-Ldeke1"><label>90</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lüdeke</surname><given-names>KM</given-names></name>
+<name name-style="western"><surname>Röschmann</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Tischler</surname><given-names>R</given-names></name>
+</person-group>             <year>1985</year>             <article-title>Susceptibility artefacts in NMR imaging.</article-title>             <source>Magn Reson Imaging</source>             <volume>3</volume>             <fpage>329</fpage>             <lpage>343</lpage>          </citation></ref>
+<ref id="pone.0003826-Ogawa1"><label>91</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ogawa</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>TM</given-names></name>
+<name name-style="western"><surname>Kay</surname><given-names>AR</given-names></name>
+<name name-style="western"><surname>Tank</surname><given-names>DW</given-names></name>
+</person-group>             <year>1990</year>             <article-title>Brain magnetic resonance imaging with contrast dependent on blood oxygenation.</article-title>             <source>Proc Natl Acad Sci USA</source>             <volume>87</volume>             <fpage>9868</fpage>             <lpage>9872</lpage>          </citation></ref>
+<ref id="pone.0003826-Logothetis1"><label>92</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Logothetis</surname><given-names>NK</given-names></name>
+</person-group>             <year>2008</year>             <article-title>What we can do and what we cannot do with fMRI.</article-title>             <source>Nature</source>             <volume>453</volume>             <fpage>869</fpage>             <lpage>878</lpage>          </citation></ref>
+<ref id="pone.0003826-Goldman1"><label>93</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Goldman</surname><given-names>LW</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Principles of CT: Radiation Dose and Image Quality.</article-title>             <source>J Nucl Med Technol</source>             <volume>35</volume>             <fpage>213</fpage>             <lpage>225</lpage>          </citation></ref>
+<ref id="pone.0003826-Gowland1"><label>94</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Gowland</surname><given-names>PA</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Present and future magnetic resonance sources of exposure to static fields.</article-title>             <source>Prog Biophys Mol Biol</source>             <volume>87</volume>             <fpage>175</fpage>             <lpage>183</lpage>          </citation></ref>
+<ref id="pone.0003826-Silva1"><label>95</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Silva</surname><given-names>AK</given-names></name>
+<name name-style="western"><surname>Silva</surname><given-names>EL</given-names></name>
+<name name-style="western"><surname>Egito</surname><given-names>ES</given-names></name>
+<name name-style="western"><surname>Carrico</surname><given-names>AS</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Safety concerns related to magnetic field exposure.</article-title>             <source>Radiat Environ Biophys</source>             <volume>45</volume>             <fpage>245</fpage>             <lpage>252</lpage>          </citation></ref>
+<ref id="pone.0003826-Mietchen3"><label>96</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Mietchen</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Jakobi</surname><given-names>JW</given-names></name>
+<name name-style="western"><surname>Richter</surname><given-names>HP</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Cortex reorganization of <italic>Xenopus laevis</italic> eggs in strong static magnetic fields.</article-title>             <source>Biomagn Res Technol</source>             <volume>3</volume>             <fpage>2</fpage>          </citation></ref>
+<ref id="pone.0003826-Schenck1"><label>97</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Schenck</surname><given-names>JF</given-names></name>
+</person-group>             <year>2005</year>             <article-title>Physical interactions of static magnetic fields with living tissues.</article-title>             <source>Prog Biophys Mol Biol</source>             <volume>87</volume>             <fpage>185</fpage>             <lpage>204</lpage>          </citation></ref>
+<ref id="pone.0003826-Boppart1"><label>98</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Boppart</surname><given-names>SA</given-names></name>
+<name name-style="western"><surname>Brezinski</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Bouma</surname><given-names>BE</given-names></name>
+<name name-style="western"><surname>Teamey</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Fujimoto</surname><given-names>JG</given-names></name>
+</person-group>             <year>1996</year>             <article-title>Investigation of developing embryonic morphology using optical coherence tomography.</article-title>             <source>Dev Biol</source>             <volume>177</volume>             <fpage>54</fpage>             <lpage>63</lpage>          </citation></ref>
+<ref id="pone.0003826-Concha1"><label>99</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Concha</surname><given-names>ML</given-names></name>
+<name name-style="western"><surname>Adams</surname><given-names>RJ</given-names></name>
+</person-group>             <year>1998</year>             <article-title>Oriented cell divisions and cellular morphogenesis in the zebrafish gastrula and neurula: a time-lapse analysis.</article-title>             <source>Development</source>             <volume>125</volume>             <fpage>983</fpage>             <lpage>994</lpage>          </citation></ref>
+<ref id="pone.0003826-Huisken1"><label>100</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Huisken</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Swoger</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Del Bene</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Wittbrodt</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Stelzer</surname><given-names>EHK</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Optical sectioning deep inside live embryos by selective plane illumination microscopy.</article-title>             <source>Science</source>             <volume>305</volume>             <fpage>1007</fpage>             <lpage>1009</lpage>          </citation></ref>
+<ref id="pone.0003826-Keller1"><label>101</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Keller</surname><given-names>R</given-names></name>
+</person-group>             <year>1978</year>             <article-title>Time-lapse cinemicrographic analysis of superficial cell behavior during and prior to gastrulation in <italic>Xenopus laevis</italic>.</article-title>             <source>J Morph</source>             <volume>157</volume>             <fpage>223</fpage>             <lpage>248</lpage>          </citation></ref>
+<ref id="pone.0003826-Wind1"><label>102</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wind</surname><given-names>RA</given-names></name>
+<name name-style="western"><surname>Minard</surname><given-names>KR</given-names></name>
+<name name-style="western"><surname>Holtom</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Majors</surname><given-names>PD</given-names></name>
+<name name-style="western"><surname>Ackerman</surname><given-names>EJ</given-names></name>
+<etal/></person-group>             <year>2000</year>             <article-title>An integrated confocal and magnetic resonance microscope for cellular research.</article-title>             <source>J Magn Reson</source>             <volume>147</volume>             <fpage>371</fpage>             <lpage>377</lpage>          </citation></ref>
+<ref id="pone.0003826-Ganguly1"><label>103</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Ganguly</surname><given-names>A</given-names></name>
+<name name-style="western"><surname>Wen</surname><given-names>Z</given-names></name>
+<name name-style="western"><surname>Daniel</surname><given-names>BL</given-names></name>
+<name name-style="western"><surname>Butts</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Kee</surname><given-names>ST</given-names></name>
+<etal/></person-group>             <year>2005</year>             <article-title>Truly Hybrid X-Ray/MR Imaging: Toward a Streamlined Clinical System.</article-title>             <source>Acad Radiol</source>             <volume>12</volume>             <fpage>1167</fpage>             <lpage>1177</lpage>          </citation></ref>
+<ref id="pone.0003826-Foster1"><label>104</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Foster</surname><given-names>FS</given-names></name>
+<name name-style="western"><surname>Pavlin</surname><given-names>CJ</given-names></name>
+<name name-style="western"><surname>Lockwood</surname><given-names>GR</given-names></name>
+<name name-style="western"><surname>Ryan</surname><given-names>LK</given-names></name>
+<name name-style="western"><surname>Harasiewicz</surname><given-names>KA</given-names></name>
+<etal/></person-group>             <year>1993</year>             <article-title>Principles and applications of ultrasound backscatter microscopy.</article-title>             <source>IEEE Trans UFFC</source>             <volume>40</volume>             <fpage>608</fpage>             <lpage>617</lpage>          </citation></ref>
+<ref id="pone.0003826-Lemor1"><label>105</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lemor</surname><given-names>R</given-names></name>
+<name name-style="western"><surname>Pilarczyk</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Westphal</surname><given-names>I</given-names></name>
+<name name-style="western"><surname>Weiss</surname><given-names>EC</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Combination of acoustic and optical microscopy for investigation of biological cell properties. Acoustical Imaging Vol 27.</article-title>             <publisher-loc>Dordrecht, New York</publisher-loc>             <publisher-name>Kluwer</publisher-name>             <fpage>563</fpage>             <lpage>572</lpage>          </citation></ref>
+<ref id="pone.0003826-Catana1"><label>106</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Catana</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Procissi</surname><given-names>D</given-names></name>
+<name name-style="western"><surname>Wu</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Judenhofer</surname><given-names>MS</given-names></name>
+<name name-style="western"><surname>Qi</surname><given-names>J</given-names></name>
+<etal/></person-group>             <year>2008</year>             <article-title>Simultaneous in vivo positron emission tomography and magnetic resonance imaging.</article-title>             <source>Proc Natl Acad Sci USA</source>             <volume>105</volume>             <fpage>3705</fpage>             <lpage>3710</lpage>          </citation></ref>
+<ref id="pone.0003826-Lacey1"><label>107</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lacey</surname><given-names>ME</given-names></name>
+<name name-style="western"><surname>Tan</surname><given-names>ZJ</given-names></name>
+<name name-style="western"><surname>Webb</surname><given-names>AG</given-names></name>
+<name name-style="western"><surname>Sweedler</surname><given-names>JV</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Union of capillary high-performance liquid chromatography and microcoil nuclear magnetic resonance spectroscopy applied to the separation and identification of terpenoids.</article-title>             <source>J Chromatogr A</source>             <volume>922</volume>             <fpage>139</fpage>             <lpage>149</lpage>          </citation></ref>
+<ref id="pone.0003826-Bonnet1"><label>108</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Bonnet</surname><given-names>N</given-names></name>
+</person-group>             <year>2004</year>             <article-title>Some trends in microscope image processing.</article-title>             <source>Micron</source>             <volume>35</volume>             <fpage>635</fpage>             <lpage>653</lpage>          </citation></ref>
+<ref id="pone.0003826-Haynes1"><label>109</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Haynes</surname><given-names>JD</given-names></name>
+<name name-style="western"><surname>Sakai</surname><given-names>K</given-names></name>
+<name name-style="western"><surname>Rees</surname><given-names>G</given-names></name>
+<name name-style="western"><surname>Gilbert</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Frith</surname><given-names>C</given-names></name>
+<etal/></person-group>             <year>2007</year>             <article-title>Reading Hidden Intentions in the Human Brain.</article-title>             <source>Current Biol</source>             <volume>17</volume>             <fpage>323</fpage>             <lpage>328</lpage>          </citation></ref>
+<ref id="pone.0003826-Rueden1"><label>110</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Rueden</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Eliceiri</surname><given-names>KW</given-names></name>
+<name name-style="western"><surname>White</surname><given-names>JG</given-names></name>
+</person-group>             <year>2004</year>             <article-title>VisBio: A Computational Tool for Visualization of Multidimensional Biological Image Data.</article-title>             <source>Traffic</source>             <volume>5</volume>             <fpage>411</fpage>             <lpage>417</lpage>          </citation></ref>
+<ref id="pone.0003826-VanEssen1"><label>111</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Van Essen</surname><given-names>DC</given-names></name>
+<name name-style="western"><surname>Dierker</surname><given-names>DL</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Surface-Based and Probabilistic Atlases of Primate Cerebral Cortex.</article-title>             <source>Neuron</source>             <volume>56</volume>             <fpage>209</fpage>             <lpage>225</lpage>          </citation></ref>
+<ref id="pone.0003826-Wilke1"><label>112</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Wilke</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Holland</surname><given-names>SK</given-names></name>
+<name name-style="western"><surname>Altaye</surname><given-names>M</given-names></name>
+<name name-style="western"><surname>Gaser</surname><given-names>C</given-names></name>
+</person-group>             <year>2008</year>             <article-title>Template-O-Matic: A toolbox for creating customized pediatric templates.</article-title>             <source>Neuroimage</source>             <volume>41</volume>             <fpage>903</fpage>             <lpage>913</lpage>          </citation></ref>
+<ref id="pone.0003826-Eisenreich1"><label>113</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Eisenreich</surname><given-names>W</given-names></name>
+<name name-style="western"><surname>Bacher</surname><given-names>A</given-names></name>
+</person-group>             <year>2007</year>             <article-title>Advances of high-resolution NMR techniques in the structural and metabolic analysis of plant biochemistry.</article-title>             <source>Phytochem</source>             <volume>68</volume>             <fpage>2799</fpage>             <lpage>2815</lpage>          </citation></ref>
+<ref id="pone.0003826-Han1"><label>114</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Han</surname><given-names>SI</given-names></name>
+<name name-style="western"><surname>Stapf</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Blümich</surname><given-names>B</given-names></name>
+</person-group>             <year>2001</year>             <article-title>NMR Imaging of Falling Water Drops.</article-title>             <source>Phys Rev Lett</source>             <volume>87</volume>             <fpage>144501</fpage>          </citation></ref>
+<ref id="pone.0003826-Sattler1"><label>115</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sattler</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Puxbaum</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Psenner</surname><given-names>R</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Bacterial growth in supercooled cloud droplets.</article-title>             <source>Geophys Res Lett</source>             <volume>28</volume>             <fpage>239</fpage>             <lpage>242</lpage>          </citation></ref>
+<ref id="pone.0003826-Tinbergen1"><label>116</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Tinbergen</surname><given-names>N</given-names></name>
+</person-group>             <year>1963</year>             <article-title>On aims and methods of ethology.</article-title>             <source>Zeitschr f Tierpsychol</source>             <volume>20</volume>             <fpage>410</fpage>             <lpage>433</lpage>          </citation></ref>
+<ref id="pone.0003826-Sinclair1"><label>117</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Sinclair</surname><given-names>BJ</given-names></name>
+<name name-style="western"><surname>Vernon</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Jaco Klok</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Chown</surname><given-names>SL</given-names></name>
+</person-group>             <year>2003</year>             <article-title>Insects at low temperatures: an ecological perspective.</article-title>             <source>Trends Ecol Evol</source>             <volume>18</volume>             <fpage>257</fpage>             <lpage>262</lpage>          </citation></ref>
+<ref id="pone.0003826-Izumi1"><label>118</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Izumi</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Sonoda</surname><given-names>S</given-names></name>
+<name name-style="western"><surname>Yoshida</surname><given-names>H</given-names></name>
+<name name-style="western"><surname>Danks</surname><given-names>HV</given-names></name>
+<name name-style="western"><surname>Tsumuki</surname><given-names>H</given-names></name>
+</person-group>             <year>2006</year>             <article-title>Role of membrane transport of water and glycerol in the freeze tolerance of the rice stem borer, <italic>Chilo suppressalis</italic> Walker (Lepidoptera: Pyralidae).</article-title>             <source>J Insect Physiol</source>             <volume>52</volume>             <fpage>215</fpage>             <lpage>220</lpage>          </citation></ref>
+<ref id="pone.0003826-Philip1"><label>119</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Philip</surname><given-names>BN</given-names></name>
+<name name-style="western"><surname>Yi</surname><given-names>SX</given-names></name>
+<name name-style="western"><surname>Elnitsky</surname><given-names>MA</given-names></name>
+<name name-style="western"><surname>Lee</surname><given-names>RE</given-names><suffix>Jr</suffix></name>
+</person-group>             <year>2008</year>             <article-title>Aquaporins play a role in desiccation and freeze tolerance in larvae of the goldenrod gall fly, Eurosta solidaginis.</article-title>             <source>J Exp Biol</source>             <volume>211</volume>             <fpage>1114</fpage>             <lpage>1119</lpage>          </citation></ref>
+<ref id="pone.0003826-Quigley1"><label>120</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Quigley</surname><given-names>F</given-names></name>
+<name name-style="western"><surname>Rosenberg</surname><given-names>JM</given-names></name>
+<name name-style="western"><surname>Shachar-Hill</surname><given-names>Y</given-names></name>
+<name name-style="western"><surname>Bohnert</surname><given-names>HJ</given-names></name>
+</person-group>             <year>2002</year>             <article-title>From genome to function: the Arabidopsis aquaporins.</article-title>             <source>Genome Biol</source>             <volume>3</volume>             <fpage>0001.0001</fpage>             <lpage>0001.0017</lpage>          </citation></ref>
+<ref id="pone.0003826-Danks1"><label>121</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Danks</surname><given-names>H</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Dehydration in dormant insects.</article-title>             <source>J Insect Physiol</source>             <volume>46</volume>             <fpage>837</fpage>             <lpage>852</lpage>          </citation></ref>
+<ref id="pone.0003826-Lambert1"><label>122</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lambert</surname><given-names>JB</given-names></name>
+<name name-style="western"><surname>Shawl</surname><given-names>CE</given-names></name>
+<name name-style="western"><surname>Stearns</surname><given-names>JA</given-names></name>
+</person-group>             <year>2000</year>             <article-title>Nuclear magnetic resonance in archaeology.</article-title>             <source>Chem Soc Rev</source>             <volume>29</volume>             <fpage>175</fpage>             <lpage>182</lpage>          </citation></ref>
+<ref id="pone.0003826-Lee6"><label>123</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Lee</surname><given-names>AP</given-names></name>
+<name name-style="western"><surname>Klinowski</surname><given-names>J</given-names></name>
+<name name-style="western"><surname>Marseglia</surname><given-names>EA</given-names></name>
+</person-group>             <year>1995</year>             <article-title>Application of Nuclear Magnetic Resonance Spectroscopy To Bone Diagenesis.</article-title>             <source>J Archaeol Sci</source>             <volume>22</volume>             <fpage>257</fpage>             <lpage>262</lpage>          </citation></ref>
+<ref id="pone.0003826-Borah1"><label>124</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Borah</surname><given-names>B</given-names></name>
+<name name-style="western"><surname>Gross</surname><given-names>GJ</given-names></name>
+<name name-style="western"><surname>Dufresne</surname><given-names>TE</given-names></name>
+<name name-style="western"><surname>Smith</surname><given-names>TS</given-names></name>
+<name name-style="western"><surname>Cockman</surname><given-names>MD</given-names></name>
+<etal/></person-group>             <year>2001</year>             <article-title>Three-dimensional microimaging (MRmicroI and microCT), finite element modeling, and rapid prototyping provide unique insights into bone architecture in osteoporosis.</article-title>             <source>Anat Rec</source>             <volume>265</volume>             <fpage>101</fpage>             <lpage>110</lpage>          </citation></ref>
+<ref id="pone.0003826-Moritz1"><label>125</label><citation citation-type="journal" xlink:type="simple">             <person-group person-group-type="author">
+<name name-style="western"><surname>Moritz</surname><given-names>C</given-names></name>
+<name name-style="western"><surname>Labbe</surname><given-names>C</given-names></name>
+</person-group>             <year>2008</year>             <article-title>Cryopreservation of goldfish fins and optimization for field scale cryobanking.</article-title>             <source>Cryobiology</source>             <volume>56</volume>             <fpage>181</fpage>             <lpage>188</lpage>          </citation></ref>
+<ref id="pone.0003826-Watson1"><label>126</label><citation citation-type="other" xlink:type="simple">             <person-group person-group-type="editor">
+<name name-style="western"><surname>Watson</surname><given-names>P</given-names></name>
+<name name-style="western"><surname>Holt</surname><given-names>W</given-names></name>
+</person-group>             <year>2001</year>             <article-title>Cryobanking the genetic resource; wildlife conservation for the future?</article-title>             <publisher-loc>London</publisher-loc>             <publisher-name>Taylor and Francis</publisher-name>          </citation></ref>
+</ref-list>
+<fn-group>
+<fn fn-type="conflict"><p>The authors have declared that no competing interests exist.</p></fn>
+<fn fn-type="financial-disclosure"><p>The study was supported by an IBMT-internal grant.</p></fn>
+</fn-group>
+</back>
+</article>

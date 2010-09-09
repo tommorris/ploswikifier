@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v2.0 20040830//EN" "http://dtd.nlm.nih.gov/publishing/2.0/journalpublishing.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="correction" dtd-version="2.0" xml:lang="EN">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">plos</journal-id>
+      <journal-id journal-id-type="publisher">pbio</journal-id>
+      <journal-id journal-id-type="nlm-ta">PLoS Biol</journal-id>
+      <journal-id journal-id-type="pmc">plosbiol</journal-id>
+      <journal-title>PLoS Biology</journal-title>
+      <issn pub-type="ppub">1544-9173</issn>
+      <issn pub-type="epub">1545-7885</issn>
+      <publisher>
+        <publisher-name>Public Library of Science</publisher-name>
+        <publisher-loc>San Francisco, USA</publisher-loc>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1371/journal.pbio.0030350</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Correction</subject>
+        </subj-group>
+        <subj-group subj-group-type="Discipline">
+          <subject>Neuroscience</subject>
+        </subj-group>
+        <subj-group subj-group-type="System Taxonomy">
+          <subject>Rattus (rat)</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Correction: Highly Nonrandom Features of Synaptic Connectivity in Local Cortical Circuits</article-title>
+        <alt-title alt-title-type="running-head">Correction</alt-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Song</surname>
+            <given-names>Sen</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Sjöström</surname>
+            <given-names>Per Jesper</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Reigl</surname>
+            <given-names>Markus</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Nelson</surname>
+            <given-names>Sacha</given-names>
+          </name>
+        </contrib>
+        <contrib contrib-type="author" xlink:type="simple">
+          <name name-style="western">
+            <surname>Chklovskii</surname>
+            <given-names>Dmitri B</given-names>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>11</day>
+        <month>10</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue>10</issue>
+      <elocation-id>e350</elocation-id>
+      <copyright-statement>Public Library of Science. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</copyright-statement>
+      <copyright-year>2005</copyright-year>
+      <related-article related-article-type="corrected-article" xlink:title="Research Article" xlink:href="info:doi/10.1371/journal.pbio.0030068" vol="3" page="e68" xlink:type="simple">
+				<article-title>Highly Nonrandom Features of Synaptic Connectivity in Local Cortical Circuits</article-title>
+			</related-article>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1">
+      <title/>
+      <p>In <italic>PLoS Biology</italic>, volume 3, issue 3: DOI: <ext-link ext-link-type="doi" xlink:href="http://dx.doi.org/10.1371/journal.pbio.0030068" xlink:type="simple">10.1371/journal.pbio.0030068</ext-link></p>
+      <p>In the caption for Figure 5A, the formula for the lognormal fit was given as follows:</p>
+      <p>
+				<disp-formula id="pbio-0030350-eq1">
+					<graphic xlink:href="info:doi/10.1371/journal.pbio.0030350.eq1" alt-version="no" mimetype="image" position="float" xlink:type="simple"/>
+				</disp-formula>
+			</p>
+      <p>.</p>
+      <p>The second squaring exponent should have been inside the parentheses, so it reads as follows:</p>
+      <p>
+				<disp-formula id="pbio-0030350-eq2">
+					<graphic xlink:href="info:doi/10.1371/journal.pbio.0030350.eq2" alt-version="no" mimetype="image" position="float" xlink:type="simple"/>
+				</disp-formula>
+			</p>
+      <p>.</p>
+    </sec>
+  </body>
+</article>
